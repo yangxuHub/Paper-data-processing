@@ -1,0 +1,5201 @@
+
+{
+ "document": {
+  "@filename": "2020.emnlp-main.568.pdf",
+  "table": [
+   {
+    "@id": "1",
+    "region": {
+     "@col-increment": "0",
+     "@id": "1",
+     "@page": "6",
+     "@row-increment": "0",
+     "cell": [
+      {
+       "@end-col": "0",
+       "@end-row": "0",
+       "@id": "1",
+       "@start-col": "0",
+       "@start-row": "0",
+       "bounding-box": {
+        "@x1": "307",
+        "@x2": "494",
+        "@y1": "502",
+        "@y2": "509"
+       },
+       "content": "perform   well   on   sentiment   classi\ufb01cation."
+      },
+      {
+       "@end-col": "1",
+       "@end-row": "0",
+       "@id": "2",
+       "@start-col": "1",
+       "@start-row": "0",
+       "bounding-box": {
+        "@x1": "494",
+        "@x2": "525",
+        "@y1": "502",
+        "@y2": "509"
+       },
+       "content": "So   we"
+      }
+     ]
+    }
+   },
+   {
+    "@id": "2",
+    "region": {
+     "@col-increment": "0",
+     "@id": "1",
+     "@page": "6",
+     "@row-increment": "0",
+     "cell": [
+      {
+       "@end-col": "5",
+       "@end-row": "0",
+       "@id": "1",
+       "@start-col": "0",
+       "@start-row": "0",
+       "bounding-box": {
+        "@x1": "72",
+        "@x2": "125",
+        "@y1": "710",
+        "@y2": "720"
+       },
+       "content": null
+      },
+      {
+       "@end-col": "10",
+       "@end-row": "0",
+       "@id": "2",
+       "@start-col": "6",
+       "@start-row": "0",
+       "bounding-box": {
+        "@x1": "125",
+        "@x2": "171",
+        "@y1": "710",
+        "@y2": "720"
+       },
+       "content": null
+      },
+      {
+       "@end-col": "22",
+       "@end-row": "0",
+       "@id": "3",
+       "@start-col": "11",
+       "@start-row": "0",
+       "bounding-box": {
+        "@x1": "171",
+        "@x2": "299",
+        "@y1": "710",
+        "@y2": "720"
+       },
+       "content": null
+      },
+      {
+       "@end-col": "27",
+       "@end-row": "0",
+       "@id": "4",
+       "@start-col": "23",
+       "@start-row": "0",
+       "bounding-box": {
+        "@x1": "299",
+        "@x2": "527",
+        "@y1": "710",
+        "@y2": "720"
+       },
+       "content": "context  window  size  h=5  ,  \u03bb  g  =2.5  ,  \u03bb  r  =1  ,"
+      },
+      {
+       "@end-col": "5",
+       "@end-row": "1",
+       "@id": "1",
+       "@start-col": "0",
+       "@start-row": "1",
+       "bounding-box": {
+        "@x1": "72",
+        "@x2": "125",
+        "@y1": "698",
+        "@y2": "710"
+       },
+       "content": "Dataset"
+      },
+      {
+       "@end-col": "10",
+       "@end-row": "1",
+       "@id": "2",
+       "@start-col": "6",
+       "@start-row": "1",
+       "bounding-box": {
+        "@x1": "125",
+        "@x2": "171",
+        "@y1": "698",
+        "@y2": "710"
+       },
+       "content": "Aspect"
+      },
+      {
+       "@end-col": "22",
+       "@end-row": "1",
+       "@id": "3",
+       "@start-col": "11",
+       "@start-row": "1",
+       "bounding-box": {
+        "@x1": "171",
+        "@x2": "299",
+        "@y1": "698",
+        "@y2": "710"
+       },
+       "content": "Keywords"
+      },
+      {
+       "@end-col": "27",
+       "@end-row": "1",
+       "@id": "4",
+       "@start-col": "23",
+       "@start-row": "1",
+       "bounding-box": {
+        "@x1": "299",
+        "@x2": "527",
+        "@y1": "698",
+        "@y2": "710"
+       },
+       "content": "trainingepoch=  5  .  Forneuralmodelpre-training,"
+      },
+      {
+       "@end-col": "5",
+       "@end-row": "2",
+       "@id": "1",
+       "@start-col": "0",
+       "@start-row": "2",
+       "bounding-box": {
+        "@x1": "72",
+        "@x2": "125",
+        "@y1": "686",
+        "@y2": "698"
+       },
+       "content": null
+      },
+      {
+       "@end-col": "10",
+       "@end-row": "2",
+       "@id": "2",
+       "@start-col": "6",
+       "@start-row": "2",
+       "bounding-box": {
+        "@x1": "125",
+        "@x2": "171",
+        "@y1": "686",
+        "@y2": "698"
+       },
+       "content": "Location"
+      },
+      {
+       "@end-col": "22",
+       "@end-row": "2",
+       "@id": "3",
+       "@start-col": "11",
+       "@start-row": "2",
+       "bounding-box": {
+        "@x1": "171",
+        "@x2": "299",
+        "@y1": "686",
+        "@y2": "698"
+       },
+       "content": "street  blockriver  avenue"
+      },
+      {
+       "@end-col": "27",
+       "@end-row": "2",
+       "@id": "4",
+       "@start-col": "23",
+       "@start-row": "2",
+       "bounding-box": {
+        "@x1": "299",
+        "@x2": "527",
+        "@y1": "686",
+        "@y2": "698"
+       },
+       "content": "we  set  T=20  .  A  CNN  model  is  trained  for  each"
+      },
+      {
+       "@end-col": "5",
+       "@end-row": "3",
+       "@id": "1",
+       "@start-col": "0",
+       "@start-row": "3",
+       "bounding-box": {
+        "@x1": "72",
+        "@x2": "125",
+        "@y1": "680",
+        "@y2": "686"
+       },
+       "content": null
+      },
+      {
+       "@end-col": "10",
+       "@end-row": "3",
+       "@id": "2",
+       "@start-col": "6",
+       "@start-row": "3",
+       "bounding-box": {
+        "@x1": "125",
+        "@x2": "171",
+        "@y1": "680",
+        "@y2": "686"
+       },
+       "content": "Drinks"
+      },
+      {
+       "@end-col": "22",
+       "@end-row": "3",
+       "@id": "3",
+       "@start-col": "11",
+       "@start-row": "3",
+       "bounding-box": {
+        "@x1": "171",
+        "@x2": "299",
+        "@y1": "680",
+        "@y2": "686"
+       },
+       "content": "beverage  winescocktail  sake"
+      },
+      {
+       "@end-col": "27",
+       "@end-row": "3",
+       "@id": "4",
+       "@start-col": "23",
+       "@start-row": "3",
+       "bounding-box": {
+        "@x1": "299",
+        "@x2": "527",
+        "@y1": "680",
+        "@y2": "686"
+       },
+       "content": null
+      },
+      {
+       "@end-col": "5",
+       "@end-row": "4",
+       "@id": "1",
+       "@start-col": "0",
+       "@start-row": "4",
+       "bounding-box": {
+        "@x1": "72",
+        "@x2": "125",
+        "@y1": "668",
+        "@y2": "680"
+       },
+       "content": "Restaurant"
+      },
+      {
+       "@end-col": "10",
+       "@end-row": "4",
+       "@id": "2",
+       "@start-col": "6",
+       "@start-row": "4",
+       "bounding-box": {
+        "@x1": "125",
+        "@x2": "171",
+        "@y1": "668",
+        "@y2": "680"
+       },
+       "content": "Food"
+      },
+      {
+       "@end-col": "22",
+       "@end-row": "4",
+       "@id": "3",
+       "@start-col": "11",
+       "@start-row": "4",
+       "bounding-box": {
+        "@x1": "171",
+        "@x2": "299",
+        "@y1": "668",
+        "@y2": "680"
+       },
+       "content": "spicy  sushipizza  taste"
+      },
+      {
+       "@end-col": "27",
+       "@end-row": "4",
+       "@id": "4",
+       "@start-col": "23",
+       "@start-row": "4",
+       "bounding-box": {
+        "@x1": "299",
+        "@x2": "527",
+        "@y1": "668",
+        "@y2": "680"
+       },
+       "content": "sub-task:  aspectextractionandsentimentclassi\ufb01-"
+      },
+      {
+       "@end-col": "5",
+       "@end-row": "5",
+       "@id": "1",
+       "@start-col": "0",
+       "@start-row": "5",
+       "bounding-box": {
+        "@x1": "72",
+        "@x2": "125",
+        "@y1": "659",
+        "@y2": "668"
+       },
+       "content": null
+      },
+      {
+       "@end-col": "10",
+       "@end-row": "5",
+       "@id": "2",
+       "@start-col": "6",
+       "@start-row": "5",
+       "bounding-box": {
+        "@x1": "125",
+        "@x2": "171",
+        "@y1": "659",
+        "@y2": "668"
+       },
+       "content": null
+      },
+      {
+       "@end-col": "22",
+       "@end-row": "5",
+       "@id": "3",
+       "@start-col": "11",
+       "@start-row": "5",
+       "bounding-box": {
+        "@x1": "171",
+        "@x2": "299",
+        "@y1": "659",
+        "@y2": "668"
+       },
+       "content": "atmosphereroom"
+      },
+      {
+       "@end-col": "27",
+       "@end-row": "5",
+       "@id": "4",
+       "@start-col": "23",
+       "@start-row": "5",
+       "bounding-box": {
+        "@x1": "299",
+        "@x2": "527",
+        "@y1": "659",
+        "@y2": "668"
+       },
+       "content": "cation.  Each  model  uses  20  feature  maps  for  \ufb01lters"
+      },
+      {
+       "@end-col": "5",
+       "@end-row": "6",
+       "@id": "1",
+       "@start-col": "0",
+       "@start-row": "6",
+       "bounding-box": {
+        "@x1": "72",
+        "@x2": "125",
+        "@y1": "653",
+        "@y2": "659"
+       },
+       "content": null
+      },
+      {
+       "@end-col": "10",
+       "@end-row": "6",
+       "@id": "2",
+       "@start-col": "6",
+       "@start-row": "6",
+       "bounding-box": {
+        "@x1": "125",
+        "@x2": "171",
+        "@y1": "653",
+        "@y2": "659"
+       },
+       "content": "Ambience"
+      },
+      {
+       "@end-col": "22",
+       "@end-row": "6",
+       "@id": "3",
+       "@start-col": "11",
+       "@start-row": "6",
+       "bounding-box": {
+        "@x1": "171",
+        "@x2": "299",
+        "@y1": "653",
+        "@y2": "659"
+       },
+       "content": null
+      },
+      {
+       "@end-col": "27",
+       "@end-row": "6",
+       "@id": "4",
+       "@start-col": "23",
+       "@start-row": "6",
+       "bounding-box": {
+        "@x1": "299",
+        "@x2": "527",
+        "@y1": "653",
+        "@y2": "659"
+       },
+       "content": null
+      },
+      {
+       "@end-col": "5",
+       "@end-row": "7",
+       "@id": "1",
+       "@start-col": "0",
+       "@start-row": "7",
+       "bounding-box": {
+        "@x1": "72",
+        "@x2": "125",
+        "@y1": "644",
+        "@y2": "653"
+       },
+       "content": null
+      },
+      {
+       "@end-col": "10",
+       "@end-row": "7",
+       "@id": "2",
+       "@start-col": "6",
+       "@start-row": "7",
+       "bounding-box": {
+        "@x1": "125",
+        "@x2": "171",
+        "@y1": "644",
+        "@y2": "653"
+       },
+       "content": null
+      },
+      {
+       "@end-col": "22",
+       "@end-row": "7",
+       "@id": "3",
+       "@start-col": "11",
+       "@start-row": "7",
+       "bounding-box": {
+        "@x1": "171",
+        "@x2": "299",
+        "@y1": "644",
+        "@y2": "653"
+       },
+       "content": "seatingenvironment"
+      },
+      {
+       "@end-col": "27",
+       "@end-row": "7",
+       "@id": "4",
+       "@start-col": "23",
+       "@start-row": "7",
+       "bounding-box": {
+        "@x1": "299",
+        "@x2": "527",
+        "@y1": "644",
+        "@y2": "653"
+       },
+       "content": "withwindowsizesof2,3,and4.  SGDisusedwith"
+      },
+      {
+       "@end-col": "5",
+       "@end-row": "8",
+       "@id": "1",
+       "@start-col": "0",
+       "@start-row": "8",
+       "bounding-box": {
+        "@x1": "72",
+        "@x2": "125",
+        "@y1": "632",
+        "@y2": "644"
+       },
+       "content": null
+      },
+      {
+       "@end-col": "10",
+       "@end-row": "8",
+       "@id": "2",
+       "@start-col": "6",
+       "@start-row": "8",
+       "bounding-box": {
+        "@x1": "125",
+        "@x2": "171",
+        "@y1": "632",
+        "@y2": "644"
+       },
+       "content": "Service"
+      },
+      {
+       "@end-col": "22",
+       "@end-row": "8",
+       "@id": "3",
+       "@start-col": "11",
+       "@start-row": "8",
+       "bounding-box": {
+        "@x1": "171",
+        "@x2": "299",
+        "@y1": "632",
+        "@y2": "644"
+       },
+       "content": "tips  manager  waitress  servers"
+      },
+      {
+       "@end-col": "27",
+       "@end-row": "8",
+       "@id": "4",
+       "@start-col": "23",
+       "@start-row": "8",
+       "bounding-box": {
+        "@x1": "299",
+        "@x2": "527",
+        "@y1": "632",
+        "@y2": "644"
+       },
+       "content": "1e  \u2212  3  as  the  learning  rate  in  both  pre-training  and"
+      },
+      {
+       "@end-col": "5",
+       "@end-row": "9",
+       "@id": "1",
+       "@start-col": "0",
+       "@start-row": "9",
+       "bounding-box": {
+        "@x1": "72",
+        "@x2": "125",
+        "@y1": "626",
+        "@y2": "632"
+       },
+       "content": null
+      },
+      {
+       "@end-col": "10",
+       "@end-row": "9",
+       "@id": "2",
+       "@start-col": "6",
+       "@start-row": "9",
+       "bounding-box": {
+        "@x1": "125",
+        "@x2": "171",
+        "@y1": "626",
+        "@y2": "632"
+       },
+       "content": null
+      },
+      {
+       "@end-col": "22",
+       "@end-row": "9",
+       "@id": "3",
+       "@start-col": "11",
+       "@start-row": "9",
+       "bounding-box": {
+        "@x1": "171",
+        "@x2": "299",
+        "@y1": "626",
+        "@y2": "632"
+       },
+       "content": "servicewarranty"
+      },
+      {
+       "@end-col": "27",
+       "@end-row": "9",
+       "@id": "4",
+       "@start-col": "23",
+       "@start-row": "9",
+       "bounding-box": {
+        "@x1": "299",
+        "@x2": "527",
+        "@y1": "626",
+        "@y2": "632"
+       },
+       "content": null
+      },
+      {
+       "@end-col": "5",
+       "@end-row": "10",
+       "@id": "1",
+       "@start-col": "0",
+       "@start-row": "10",
+       "bounding-box": {
+        "@x1": "72",
+        "@x2": "125",
+        "@y1": "620",
+        "@y2": "626"
+       },
+       "content": null
+      },
+      {
+       "@end-col": "10",
+       "@end-row": "10",
+       "@id": "2",
+       "@start-col": "6",
+       "@start-row": "10",
+       "bounding-box": {
+        "@x1": "125",
+        "@x2": "171",
+        "@y1": "620",
+        "@y2": "626"
+       },
+       "content": "Support"
+      },
+      {
+       "@end-col": "22",
+       "@end-row": "10",
+       "@id": "3",
+       "@start-col": "11",
+       "@start-row": "10",
+       "bounding-box": {
+        "@x1": "171",
+        "@x2": "299",
+        "@y1": "620",
+        "@y2": "626"
+       },
+       "content": null
+      },
+      {
+       "@end-col": "27",
+       "@end-row": "11",
+       "@id": "4",
+       "@start-col": "23",
+       "@start-row": "10",
+       "bounding-box": {
+        "@x1": "299",
+        "@x2": "527",
+        "@y1": "612",
+        "@y2": "626"
+       },
+       "content": "self-trainingandthebatchsizeissetto16."
+      },
+      {
+       "@end-col": "5",
+       "@end-row": "11",
+       "@id": "1",
+       "@start-col": "0",
+       "@start-row": "11",
+       "bounding-box": {
+        "@x1": "72",
+        "@x2": "125",
+        "@y1": "612",
+        "@y2": "620"
+       },
+       "content": null
+      },
+      {
+       "@end-col": "10",
+       "@end-row": "11",
+       "@id": "2",
+       "@start-col": "6",
+       "@start-row": "11",
+       "bounding-box": {
+        "@x1": "125",
+        "@x2": "171",
+        "@y1": "612",
+        "@y2": "620"
+       },
+       "content": null
+      },
+      {
+       "@end-col": "22",
+       "@end-row": "11",
+       "@id": "3",
+       "@start-col": "11",
+       "@start-row": "11",
+       "bounding-box": {
+        "@x1": "171",
+        "@x2": "299",
+        "@y1": "612",
+        "@y2": "620"
+       },
+       "content": "coveragereplace"
+      },
+      {
+       "@end-col": "5",
+       "@end-row": "12",
+       "@id": "1",
+       "@start-col": "0",
+       "@start-row": "12",
+       "bounding-box": {
+        "@x1": "72",
+        "@x2": "125",
+        "@y1": "602",
+        "@y2": "612"
+       },
+       "content": null
+      },
+      {
+       "@end-col": "10",
+       "@end-row": "12",
+       "@id": "2",
+       "@start-col": "6",
+       "@start-row": "12",
+       "bounding-box": {
+        "@x1": "125",
+        "@x2": "171",
+        "@y1": "602",
+        "@y2": "612"
+       },
+       "content": "OS"
+      },
+      {
+       "@end-col": "22",
+       "@end-row": "12",
+       "@id": "3",
+       "@start-col": "11",
+       "@start-row": "12",
+       "bounding-box": {
+        "@x1": "171",
+        "@x2": "299",
+        "@y1": "602",
+        "@y2": "612"
+       },
+       "content": "windows  iosmacsystem"
+      },
+      {
+       "@end-col": "27",
+       "@end-row": "12",
+       "@id": "4",
+       "@start-col": "23",
+       "@start-row": "12",
+       "bounding-box": {
+        "@x1": "299",
+        "@x2": "527",
+        "@y1": "602",
+        "@y2": "612"
+       },
+       "content": null
+      },
+      {
+       "@end-col": "5",
+       "@end-row": "13",
+       "@id": "1",
+       "@start-col": "0",
+       "@start-row": "13",
+       "bounding-box": {
+        "@x1": "72",
+        "@x2": "125",
+        "@y1": "591",
+        "@y2": "602"
+       },
+       "content": null
+      },
+      {
+       "@end-col": "10",
+       "@end-row": "13",
+       "@id": "2",
+       "@start-col": "6",
+       "@start-row": "13",
+       "bounding-box": {
+        "@x1": "125",
+        "@x2": "171",
+        "@y1": "591",
+        "@y2": "602"
+       },
+       "content": "Display"
+      },
+      {
+       "@end-col": "22",
+       "@end-row": "13",
+       "@id": "3",
+       "@start-col": "11",
+       "@start-row": "13",
+       "bounding-box": {
+        "@x1": "171",
+        "@x2": "299",
+        "@y1": "591",
+        "@y2": "602"
+       },
+       "content": "screen  ledmonitorresolution"
+      },
+      {
+       "@end-col": "23",
+       "@end-row": "13",
+       "@id": "4",
+       "@start-col": "23",
+       "@start-row": "13",
+       "bounding-box": {
+        "@x1": "299",
+        "@x2": "326",
+        "@y1": "591",
+        "@y2": "602"
+       },
+       "content": "5.2"
+      },
+      {
+       "@end-col": "27",
+       "@end-row": "13",
+       "@id": "5",
+       "@start-col": "24",
+       "@start-row": "13",
+       "bounding-box": {
+        "@x1": "326",
+        "@x2": "527",
+        "@y1": "591",
+        "@y2": "602"
+       },
+       "content": "QuantitativeEvaluation"
+      },
+      {
+       "@end-col": "5",
+       "@end-row": "14",
+       "@id": "1",
+       "@start-col": "0",
+       "@start-row": "14",
+       "bounding-box": {
+        "@x1": "72",
+        "@x2": "125",
+        "@y1": "582",
+        "@y2": "591"
+       },
+       "content": "Laptop"
+      },
+      {
+       "@end-col": "10",
+       "@end-row": "14",
+       "@id": "2",
+       "@start-col": "6",
+       "@start-row": "14",
+       "bounding-box": {
+        "@x1": "125",
+        "@x2": "171",
+        "@y1": "582",
+        "@y2": "591"
+       },
+       "content": "Battery"
+      },
+      {
+       "@end-col": "22",
+       "@end-row": "14",
+       "@id": "3",
+       "@start-col": "11",
+       "@start-row": "14",
+       "bounding-box": {
+        "@x1": "171",
+        "@x2": "299",
+        "@y1": "582",
+        "@y2": "591"
+       },
+       "content": "life  charge  lastpower"
+      },
+      {
+       "@end-col": "27",
+       "@end-row": "14",
+       "@id": "4",
+       "@start-col": "23",
+       "@start-row": "14",
+       "bounding-box": {
+        "@x1": "299",
+        "@x2": "527",
+        "@y1": "582",
+        "@y2": "591"
+       },
+       "content": null
+      },
+      {
+       "@end-col": "5",
+       "@end-row": "15",
+       "@id": "1",
+       "@start-col": "0",
+       "@start-row": "15",
+       "bounding-box": {
+        "@x1": "72",
+        "@x2": "125",
+        "@y1": "570",
+        "@y2": "582"
+       },
+       "content": null
+      },
+      {
+       "@end-col": "10",
+       "@end-row": "15",
+       "@id": "2",
+       "@start-col": "6",
+       "@start-row": "15",
+       "bounding-box": {
+        "@x1": "125",
+        "@x2": "171",
+        "@y1": "570",
+        "@y2": "582"
+       },
+       "content": "Company"
+      },
+      {
+       "@end-col": "22",
+       "@end-row": "15",
+       "@id": "3",
+       "@start-col": "11",
+       "@start-row": "15",
+       "bounding-box": {
+        "@x1": "171",
+        "@x2": "299",
+        "@y1": "570",
+        "@y2": "582"
+       },
+       "content": "hp  toshibadelllenovo"
+      },
+      {
+       "@end-col": "27",
+       "@end-row": "15",
+       "@id": "4",
+       "@start-col": "23",
+       "@start-row": "15",
+       "bounding-box": {
+        "@x1": "299",
+        "@x2": "527",
+        "@y1": "570",
+        "@y2": "582"
+       },
+       "content": "We  conduct  quantitative  evaluation  on  both  aspect"
+      },
+      {
+       "@end-col": "5",
+       "@end-row": "16",
+       "@id": "1",
+       "@start-col": "0",
+       "@start-row": "16",
+       "bounding-box": {
+        "@x1": "72",
+        "@x2": "125",
+        "@y1": "558",
+        "@y2": "570"
+       },
+       "content": null
+      },
+      {
+       "@end-col": "10",
+       "@end-row": "16",
+       "@id": "2",
+       "@start-col": "6",
+       "@start-row": "16",
+       "bounding-box": {
+        "@x1": "125",
+        "@x2": "171",
+        "@y1": "558",
+        "@y2": "570"
+       },
+       "content": "Mouse"
+      },
+      {
+       "@end-col": "22",
+       "@end-row": "16",
+       "@id": "3",
+       "@start-col": "11",
+       "@start-row": "16",
+       "bounding-box": {
+        "@x1": "171",
+        "@x2": "299",
+        "@y1": "558",
+        "@y2": "570"
+       },
+       "content": "touch  trackbutton  pad"
+      },
+      {
+       "@end-col": "27",
+       "@end-row": "16",
+       "@id": "4",
+       "@start-col": "23",
+       "@start-row": "16",
+       "bounding-box": {
+        "@x1": "299",
+        "@x2": "527",
+        "@y1": "558",
+        "@y2": "570"
+       },
+       "content": "extractionandsentimentpolarityclassi\ufb01cation."
+      },
+      {
+       "@end-col": "5",
+       "@end-row": "17",
+       "@id": "1",
+       "@start-col": "0",
+       "@start-row": "17",
+       "bounding-box": {
+        "@x1": "72",
+        "@x2": "125",
+        "@y1": "547",
+        "@y2": "558"
+       },
+       "content": null
+      },
+      {
+       "@end-col": "10",
+       "@end-row": "17",
+       "@id": "2",
+       "@start-col": "6",
+       "@start-row": "17",
+       "bounding-box": {
+        "@x1": "125",
+        "@x2": "171",
+        "@y1": "547",
+        "@y2": "558"
+       },
+       "content": "Software"
+      },
+      {
+       "@end-col": "22",
+       "@end-row": "17",
+       "@id": "3",
+       "@start-col": "11",
+       "@start-row": "17",
+       "bounding-box": {
+        "@x1": "171",
+        "@x2": "299",
+        "@y1": "547",
+        "@y2": "558"
+       },
+       "content": "programs  appsitunesphotoshop"
+      },
+      {
+       "@end-col": "27",
+       "@end-row": "18",
+       "@id": "4",
+       "@start-col": "23",
+       "@start-row": "17",
+       "bounding-box": {
+        "@x1": "299",
+        "@x2": "527",
+        "@y1": "538",
+        "@y2": "558"
+       },
+       "content": "ComparedMethods.  Ourmodeliscomparedwith"
+      },
+      {
+       "@end-col": "5",
+       "@end-row": "18",
+       "@id": "1",
+       "@start-col": "0",
+       "@start-row": "18",
+       "bounding-box": {
+        "@x1": "72",
+        "@x2": "125",
+        "@y1": "538",
+        "@y2": "547"
+       },
+       "content": null
+      },
+      {
+       "@end-col": "10",
+       "@end-row": "18",
+       "@id": "2",
+       "@start-col": "6",
+       "@start-row": "18",
+       "bounding-box": {
+        "@x1": "125",
+        "@x2": "171",
+        "@y1": "538",
+        "@y2": "547"
+       },
+       "content": "Keyboard"
+      },
+      {
+       "@end-col": "22",
+       "@end-row": "18",
+       "@id": "3",
+       "@start-col": "11",
+       "@start-row": "18",
+       "bounding-box": {
+        "@x1": "171",
+        "@x2": "299",
+        "@y1": "538",
+        "@y2": "547"
+       },
+       "content": "key  spacetypekeys"
+      },
+      {
+       "@end-col": "5",
+       "@end-row": "19",
+       "@id": "1",
+       "@start-col": "0",
+       "@start-row": "19",
+       "bounding-box": {
+        "@x1": "72",
+        "@x2": "125",
+        "@y1": "526",
+        "@y2": "538"
+       },
+       "content": null
+      },
+      {
+       "@end-col": "10",
+       "@end-row": "19",
+       "@id": "2",
+       "@start-col": "6",
+       "@start-row": "19",
+       "bounding-box": {
+        "@x1": "125",
+        "@x2": "171",
+        "@y1": "526",
+        "@y2": "538"
+       },
+       "content": null
+      },
+      {
+       "@end-col": "22",
+       "@end-row": "19",
+       "@id": "3",
+       "@start-col": "11",
+       "@start-row": "19",
+       "bounding-box": {
+        "@x1": "171",
+        "@x2": "299",
+        "@y1": "526",
+        "@y2": "538"
+       },
+       "content": null
+      },
+      {
+       "@end-col": "27",
+       "@end-row": "19",
+       "@id": "4",
+       "@start-col": "23",
+       "@start-row": "19",
+       "bounding-box": {
+        "@x1": "299",
+        "@x2": "527",
+        "@y1": "526",
+        "@y2": "538"
+       },
+       "content": "several  previous  studies.  A  few  of  them  are  specif-"
+      },
+      {
+       "@end-col": "0",
+       "@end-row": "20",
+       "@id": "1",
+       "@start-col": "0",
+       "@start-row": "20",
+       "bounding-box": {
+        "@x1": "72",
+        "@x2": "86",
+        "@y1": "512",
+        "@y2": "526"
+       },
+       "content": null
+      },
+      {
+       "@end-col": "22",
+       "@end-row": "20",
+       "@id": "2",
+       "@start-col": "1",
+       "@start-row": "20",
+       "bounding-box": {
+        "@x1": "86",
+        "@x2": "299",
+        "@y1": "512",
+        "@y2": "526"
+       },
+       "content": "Table2:  Keywordsofeachaspect."
+      },
+      {
+       "@end-col": "27",
+       "@end-row": "20",
+       "@id": "3",
+       "@start-col": "23",
+       "@start-row": "20",
+       "bounding-box": {
+        "@x1": "299",
+        "@x2": "527",
+        "@y1": "512",
+        "@y2": "526"
+       },
+       "content": "ically  designed  for  aspect  extraction  but  do  not"
+      },
+      {
+       "@end-col": "0",
+       "@end-row": "21",
+       "@id": "1",
+       "@start-col": "0",
+       "@start-row": "21",
+       "bounding-box": {
+        "@x1": "72",
+        "@x2": "86",
+        "@y1": "500",
+        "@y2": "512"
+       },
+       "content": null
+      },
+      {
+       "@end-col": "22",
+       "@end-row": "21",
+       "@id": "2",
+       "@start-col": "1",
+       "@start-row": "21",
+       "bounding-box": {
+        "@x1": "86",
+        "@x2": "299",
+        "@y1": "500",
+        "@y2": "512"
+       },
+       "content": null
+      },
+      {
+       "@end-col": "25",
+       "@end-row": "21",
+       "@id": "3",
+       "@start-col": "23",
+       "@start-row": "21",
+       "bounding-box": {
+        "@x1": "299",
+        "@x2": "494",
+        "@y1": "500",
+        "@y2": "512"
+       },
+       "content": "perform   well   on   sentiment   classi\ufb01cation."
+      },
+      {
+       "@end-col": "27",
+       "@end-row": "21",
+       "@id": "4",
+       "@start-col": "26",
+       "@start-row": "21",
+       "bounding-box": {
+        "@x1": "494",
+        "@x2": "527",
+        "@y1": "500",
+        "@y2": "512"
+       },
+       "content": "So   we"
+      },
+      {
+       "@end-col": "0",
+       "@end-row": "22",
+       "@id": "1",
+       "@start-col": "0",
+       "@start-row": "22",
+       "bounding-box": {
+        "@x1": "72",
+        "@x2": "86",
+        "@y1": "485",
+        "@y2": "500"
+       },
+       "content": "5.1"
+      },
+      {
+       "@end-col": "22",
+       "@end-row": "22",
+       "@id": "2",
+       "@start-col": "1",
+       "@start-row": "22",
+       "bounding-box": {
+        "@x1": "86",
+        "@x2": "299",
+        "@y1": "485",
+        "@y2": "500"
+       },
+       "content": "Experimental  Setup"
+      },
+      {
+       "@end-col": "27",
+       "@end-row": "22",
+       "@id": "3",
+       "@start-col": "23",
+       "@start-row": "22",
+       "bounding-box": {
+        "@x1": "299",
+        "@x2": "527",
+        "@y1": "485",
+        "@y2": "500"
+       },
+       "content": "only  report  their  results  on  aspect  extraction.  For"
+      },
+      {
+       "@end-col": "22",
+       "@end-row": "23",
+       "@id": "1",
+       "@start-col": "0",
+       "@start-row": "23",
+       "bounding-box": {
+        "@x1": "72",
+        "@x2": "299",
+        "@y1": "469",
+        "@y2": "485"
+       },
+       "content": "Datasets:  The  following  two  datasets  are  used  for"
+      },
+      {
+       "@end-col": "27",
+       "@end-row": "23",
+       "@id": "2",
+       "@start-col": "23",
+       "@start-row": "23",
+       "bounding-box": {
+        "@x1": "299",
+        "@x2": "527",
+        "@y1": "469",
+        "@y2": "485"
+       },
+       "content": "fair  comparison,  we  use  the  same  training  corpus"
+      },
+      {
+       "@end-col": "22",
+       "@end-row": "24",
+       "@id": "1",
+       "@start-col": "0",
+       "@start-row": "24",
+       "bounding-box": {
+        "@x1": "72",
+        "@x2": "299",
+        "@y1": "455",
+        "@y2": "469"
+       },
+       "content": "evaluation:"
+      },
+      {
+       "@end-col": "27",
+       "@end-row": "24",
+       "@id": "2",
+       "@start-col": "23",
+       "@start-row": "24",
+       "bounding-box": {
+        "@x1": "299",
+        "@x2": "527",
+        "@y1": "455",
+        "@y2": "469"
+       },
+       "content": "andtestsetforeachbaselinemethod.  Forweakly-"
+      },
+      {
+       "@end-col": "22",
+       "@end-row": "25",
+       "@id": "1",
+       "@start-col": "0",
+       "@start-row": "25",
+       "bounding-box": {
+        "@x1": "72",
+        "@x2": "299",
+        "@y1": "445",
+        "@y2": "455"
+       },
+       "content": null
+      },
+      {
+       "@end-col": "27",
+       "@end-row": "25",
+       "@id": "2",
+       "@start-col": "23",
+       "@start-row": "25",
+       "bounding-box": {
+        "@x1": "299",
+        "@x2": "527",
+        "@y1": "445",
+        "@y2": "455"
+       },
+       "content": "supervised  methods,  they  are  fed  with  the  same"
+      },
+      {
+       "@end-col": "6",
+       "@end-row": "26",
+       "@id": "1",
+       "@start-col": "0",
+       "@start-row": "26",
+       "bounding-box": {
+        "@x1": "72",
+        "@x2": "142",
+        "@y1": "430",
+        "@y2": "445"
+       },
+       "content": "Restaurant  :"
+      },
+      {
+       "@end-col": "9",
+       "@end-row": "26",
+       "@id": "2",
+       "@start-col": "7",
+       "@start-row": "26",
+       "bounding-box": {
+        "@x1": "142",
+        "@x2": "165",
+        "@y1": "430",
+        "@y2": "445"
+       },
+       "content": "For"
+      },
+      {
+       "@end-col": "15",
+       "@end-row": "26",
+       "@id": "3",
+       "@start-col": "10",
+       "@start-row": "26",
+       "bounding-box": {
+        "@x1": "165",
+        "@x2": "216",
+        "@y1": "430",
+        "@y2": "445"
+       },
+       "content": "in-domain"
+      },
+      {
+       "@end-col": "19",
+       "@end-row": "26",
+       "@id": "4",
+       "@start-col": "16",
+       "@start-row": "26",
+       "bounding-box": {
+        "@x1": "216",
+        "@x2": "256",
+        "@y1": "430",
+        "@y2": "445"
+       },
+       "content": "training"
+      },
+      {
+       "@end-col": "22",
+       "@end-row": "26",
+       "@id": "5",
+       "@start-col": "20",
+       "@start-row": "26",
+       "bounding-box": {
+        "@x1": "256",
+        "@x2": "299",
+        "@y1": "430",
+        "@y2": "445"
+       },
+       "content": "corpus,"
+      },
+      {
+       "@end-col": "27",
+       "@end-row": "26",
+       "@id": "6",
+       "@start-col": "23",
+       "@start-row": "26",
+       "bounding-box": {
+        "@x1": "299",
+        "@x2": "527",
+        "@y1": "430",
+        "@y2": "445"
+       },
+       "content": "keywordlistasours."
+      },
+      {
+       "@end-col": "22",
+       "@end-row": "27",
+       "@id": "1",
+       "@start-col": "0",
+       "@start-row": "27",
+       "bounding-box": {
+        "@x1": "72",
+        "@x2": "299",
+        "@y1": "418",
+        "@y2": "430"
+       },
+       "content": "we  collect  17,027  unlabeled  reviews  from  Yelp"
+      },
+      {
+       "@end-col": "27",
+       "@end-row": "27",
+       "@id": "2",
+       "@start-col": "23",
+       "@start-row": "27",
+       "bounding-box": {
+        "@x1": "299",
+        "@x2": "527",
+        "@y1": "418",
+        "@y2": "430"
+       },
+       "content": null
+      },
+      {
+       "@end-col": "11",
+       "@end-row": "28",
+       "@id": "1",
+       "@start-col": "0",
+       "@start-row": "28",
+       "bounding-box": {
+        "@x1": "72",
+        "@x2": "179",
+        "@y1": "405",
+        "@y2": "418"
+       },
+       "content": "Dataset  Challenge  2  ."
+      },
+      {
+       "@end-col": "22",
+       "@end-row": "28",
+       "@id": "2",
+       "@start-col": "12",
+       "@start-row": "28",
+       "bounding-box": {
+        "@x1": "179",
+        "@x2": "299",
+        "@y1": "405",
+        "@y2": "418"
+       },
+       "content": "For  evaluation,  we  use"
+      },
+      {
+       "@end-col": "27",
+       "@end-row": "28",
+       "@id": "3",
+       "@start-col": "23",
+       "@start-row": "28",
+       "bounding-box": {
+        "@x1": "299",
+        "@x2": "527",
+        "@y1": "405",
+        "@y2": "418"
+       },
+       "content": "CosSim  :  The  topic  representation  is  averaged"
+      },
+      {
+       "@end-col": "22",
+       "@end-row": "29",
+       "@id": "1",
+       "@start-col": "0",
+       "@start-row": "29",
+       "bounding-box": {
+        "@x1": "72",
+        "@x2": "299",
+        "@y1": "391",
+        "@y2": "405"
+       },
+       "content": "thebenchmarkdatasetintherestaurantdomain"
+      },
+      {
+       "@end-col": "27",
+       "@end-row": "29",
+       "@id": "2",
+       "@start-col": "23",
+       "@start-row": "29",
+       "bounding-box": {
+        "@x1": "299",
+        "@x2": "527",
+        "@y1": "391",
+        "@y2": "405"
+       },
+       "content": "by  the  embedding  of  seed  words  trained  by"
+      },
+      {
+       "@end-col": "2",
+       "@end-row": "30",
+       "@id": "1",
+       "@start-col": "0",
+       "@start-row": "30",
+       "bounding-box": {
+        "@x1": "72",
+        "@x2": "93",
+        "@y1": "377",
+        "@y2": "391"
+       },
+       "content": "in"
+      },
+      {
+       "@end-col": "8",
+       "@end-row": "30",
+       "@id": "2",
+       "@start-col": "3",
+       "@start-row": "30",
+       "bounding-box": {
+        "@x1": "93",
+        "@x2": "164",
+        "@y1": "377",
+        "@y2": "391"
+       },
+       "content": "SemEval-2016"
+      },
+      {
+       "@end-col": "9",
+       "@end-row": "30",
+       "@id": "3",
+       "@start-col": "9",
+       "@start-row": "30",
+       "bounding-box": {
+        "@x1": "164",
+        "@x2": "165",
+        "@y1": "377",
+        "@y2": "391"
+       },
+       "content": null
+      },
+      {
+       "@end-col": "14",
+       "@end-row": "30",
+       "@id": "4",
+       "@start-col": "10",
+       "@start-row": "30",
+       "bounding-box": {
+        "@x1": "165",
+        "@x2": "206",
+        "@y1": "377",
+        "@y2": "391"
+       },
+       "content": "(Pontiki"
+      },
+      {
+       "@end-col": "16",
+       "@end-row": "30",
+       "@id": "5",
+       "@start-col": "15",
+       "@start-row": "30",
+       "bounding-box": {
+        "@x1": "206",
+        "@x2": "220",
+        "@y1": "377",
+        "@y2": "391"
+       },
+       "content": "et"
+      },
+      {
+       "@end-col": "18",
+       "@end-row": "30",
+       "@id": "6",
+       "@start-col": "17",
+       "@start-row": "30",
+       "bounding-box": {
+        "@x1": "220",
+        "@x2": "239",
+        "@y1": "377",
+        "@y2": "391"
+       },
+       "content": "al.,"
+      },
+      {
+       "@end-col": "20",
+       "@end-row": "30",
+       "@id": "7",
+       "@start-col": "19",
+       "@start-row": "30",
+       "bounding-box": {
+        "@x1": "239",
+        "@x2": "271",
+        "@y1": "377",
+        "@y2": "391"
+       },
+       "content": "2016)"
+      },
+      {
+       "@end-col": "22",
+       "@end-row": "30",
+       "@id": "8",
+       "@start-col": "21",
+       "@start-row": "30",
+       "bounding-box": {
+        "@x1": "271",
+        "@x2": "299",
+        "@y1": "377",
+        "@y2": "391"
+       },
+       "content": "and"
+      },
+      {
+       "@end-col": "27",
+       "@end-row": "30",
+       "@id": "9",
+       "@start-col": "23",
+       "@start-row": "30",
+       "bounding-box": {
+        "@x1": "299",
+        "@x2": "527",
+        "@y1": "377",
+        "@y2": "391"
+       },
+       "content": "Word2Vec  on  training  corpus.  Cosine  similarity"
+      },
+      {
+       "@end-col": "22",
+       "@end-row": "31",
+       "@id": "1",
+       "@start-col": "0",
+       "@start-row": "31",
+       "bounding-box": {
+        "@x1": "72",
+        "@x2": "299",
+        "@y1": "364",
+        "@y2": "377"
+       },
+       "content": "SemEval-2015  (Pontikietal.,2015),  whereeach"
+      },
+      {
+       "@end-col": "27",
+       "@end-row": "31",
+       "@id": "2",
+       "@start-col": "23",
+       "@start-row": "31",
+       "bounding-box": {
+        "@x1": "299",
+        "@x2": "527",
+        "@y1": "364",
+        "@y2": "377"
+       },
+       "content": "iscomputedbetweenatestsampleandthetopics"
+      },
+      {
+       "@end-col": "22",
+       "@end-row": "32",
+       "@id": "1",
+       "@start-col": "0",
+       "@start-row": "32",
+       "bounding-box": {
+        "@x1": "72",
+        "@x2": "299",
+        "@y1": "348",
+        "@y2": "364"
+       },
+       "content": "sentenceislabeledwithaspectandsentimentpo-"
+      },
+      {
+       "@end-col": "27",
+       "@end-row": "32",
+       "@id": "2",
+       "@start-col": "23",
+       "@start-row": "32",
+       "bounding-box": {
+        "@x1": "299",
+        "@x2": "527",
+        "@y1": "348",
+        "@y2": "364"
+       },
+       "content": "toclassifythesentence."
+      },
+      {
+       "@end-col": "22",
+       "@end-row": "33",
+       "@id": "1",
+       "@start-col": "0",
+       "@start-row": "33",
+       "bounding-box": {
+        "@x1": "72",
+        "@x2": "299",
+        "@y1": "334",
+        "@y2": "348"
+       },
+       "content": "larity.  We  remove  sentences  with  multiple  labels"
+      },
+      {
+       "@end-col": "24",
+       "@end-row": "33",
+       "@id": "2",
+       "@start-col": "23",
+       "@start-row": "33",
+       "bounding-box": {
+        "@x1": "299",
+        "@x2": "436",
+        "@y1": "334",
+        "@y2": "348"
+       },
+       "content": "ABAE  (He  et  al.,  2017):"
+      },
+      {
+       "@end-col": "27",
+       "@end-row": "33",
+       "@id": "3",
+       "@start-col": "25",
+       "@start-row": "33",
+       "bounding-box": {
+        "@x1": "436",
+        "@x2": "527",
+        "@y1": "334",
+        "@y2": "348"
+       },
+       "content": "An  attention-based"
+      },
+      {
+       "@end-col": "22",
+       "@end-row": "34",
+       "@id": "1",
+       "@start-col": "0",
+       "@start-row": "34",
+       "bounding-box": {
+        "@x1": "72",
+        "@x2": "299",
+        "@y1": "321",
+        "@y2": "334"
+       },
+       "content": "orwitha  neutral  sentimentpolaritytosimplify"
+      },
+      {
+       "@end-col": "26",
+       "@end-row": "34",
+       "@id": "2",
+       "@start-col": "23",
+       "@start-row": "34",
+       "bounding-box": {
+        "@x1": "299",
+        "@x2": "507",
+        "@y1": "321",
+        "@y2": "334"
+       },
+       "content": "model  to  unsupervisedly  extract  aspects."
+      },
+      {
+       "@end-col": "27",
+       "@end-row": "34",
+       "@id": "3",
+       "@start-col": "27",
+       "@start-row": "34",
+       "bounding-box": {
+        "@x1": "507",
+        "@x2": "527",
+        "@y1": "321",
+        "@y2": "334"
+       },
+       "content": "An"
+      },
+      {
+       "@end-col": "22",
+       "@end-row": "35",
+       "@id": "1",
+       "@start-col": "0",
+       "@start-row": "35",
+       "bounding-box": {
+        "@x1": "72",
+        "@x2": "299",
+        "@y1": "307",
+        "@y2": "321"
+       },
+       "content": "the  problem  (otherwise  a  set  of  keywords  can  be"
+      },
+      {
+       "@end-col": "27",
+       "@end-row": "35",
+       "@id": "2",
+       "@start-col": "23",
+       "@start-row": "35",
+       "bounding-box": {
+        "@x1": "299",
+        "@x2": "527",
+        "@y1": "307",
+        "@y2": "321"
+       },
+       "content": "autoencoder  is  trained  to  reconstruct  sentences"
+      },
+      {
+       "@end-col": "22",
+       "@end-row": "36",
+       "@id": "1",
+       "@start-col": "0",
+       "@start-row": "36",
+       "bounding-box": {
+        "@x1": "72",
+        "@x2": "299",
+        "@y1": "293",
+        "@y2": "307"
+       },
+       "content": "addedtodescribe  it)."
+      },
+      {
+       "@end-col": "27",
+       "@end-row": "36",
+       "@id": "2",
+       "@start-col": "23",
+       "@start-row": "36",
+       "bounding-box": {
+        "@x1": "299",
+        "@x2": "527",
+        "@y1": "293",
+        "@y2": "307"
+       },
+       "content": "throughaspectembeddings.  Thelearnedtopics"
+      },
+      {
+       "@end-col": "4",
+       "@end-row": "37",
+       "@id": "1",
+       "@start-col": "0",
+       "@start-row": "37",
+       "bounding-box": {
+        "@x1": "72",
+        "@x2": "122",
+        "@y1": "276",
+        "@y2": "293"
+       },
+       "content": "Laptop  :"
+      },
+      {
+       "@end-col": "22",
+       "@end-row": "37",
+       "@id": "2",
+       "@start-col": "5",
+       "@start-row": "37",
+       "bounding-box": {
+        "@x1": "122",
+        "@x2": "299",
+        "@y1": "276",
+        "@y2": "293"
+       },
+       "content": "We  leverage  14,683  unlabeled  Ama-"
+      },
+      {
+       "@end-col": "27",
+       "@end-row": "37",
+       "@id": "3",
+       "@start-col": "23",
+       "@start-row": "37",
+       "bounding-box": {
+        "@x1": "299",
+        "@x2": "527",
+        "@y1": "276",
+        "@y2": "293"
+       },
+       "content": "needtobemanuallymappedtoaspects."
+      },
+      {
+       "@end-col": "22",
+       "@end-row": "38",
+       "@id": "1",
+       "@start-col": "0",
+       "@start-row": "38",
+       "bounding-box": {
+        "@x1": "72",
+        "@x2": "299",
+        "@y1": "262",
+        "@y2": "276"
+       },
+       "content": "zonreviewsunderthelaptopcategorycollected"
+      },
+      {
+       "@end-col": "27",
+       "@end-row": "38",
+       "@id": "2",
+       "@start-col": "23",
+       "@start-row": "38",
+       "bounding-box": {
+        "@x1": "299",
+        "@x2": "527",
+        "@y1": "262",
+        "@y2": "276"
+       },
+       "content": "CAt  (Tulkens  and  van  Cranenburgh,  2020):  A"
+      },
+      {
+       "@end-col": "22",
+       "@end-row": "39",
+       "@id": "1",
+       "@start-col": "0",
+       "@start-row": "39",
+       "bounding-box": {
+        "@x1": "72",
+        "@x2": "299",
+        "@y1": "248",
+        "@y2": "262"
+       },
+       "content": "by(HeandMcAuley,2016)asin-domaintrain-"
+      },
+      {
+       "@end-col": "27",
+       "@end-row": "39",
+       "@id": "2",
+       "@start-col": "23",
+       "@start-row": "39",
+       "bounding-box": {
+        "@x1": "299",
+        "@x2": "527",
+        "@y1": "248",
+        "@y2": "262"
+       },
+       "content": "recent  method  for  unsupervised  aspect  extrac-"
+      },
+      {
+       "@end-col": "22",
+       "@end-row": "40",
+       "@id": "1",
+       "@start-col": "0",
+       "@start-row": "40",
+       "bounding-box": {
+        "@x1": "72",
+        "@x2": "299",
+        "@y1": "235",
+        "@y2": "248"
+       },
+       "content": "ingcorpus.  Wealsousethebenchmarkdataset"
+      },
+      {
+       "@end-col": "27",
+       "@end-row": "40",
+       "@id": "2",
+       "@start-col": "23",
+       "@start-row": "40",
+       "bounding-box": {
+        "@x1": "299",
+        "@x2": "527",
+        "@y1": "235",
+        "@y2": "248"
+       },
+       "content": "tion.  A  single  head  attention  is  calculated  by  a"
+      },
+      {
+       "@end-col": "2",
+       "@end-row": "41",
+       "@id": "1",
+       "@start-col": "0",
+       "@start-row": "41",
+       "bounding-box": {
+        "@x1": "72",
+        "@x2": "93",
+        "@y1": "221",
+        "@y2": "235"
+       },
+       "content": "in"
+      },
+      {
+       "@end-col": "3",
+       "@end-row": "41",
+       "@id": "2",
+       "@start-col": "3",
+       "@start-row": "41",
+       "bounding-box": {
+        "@x1": "93",
+        "@x2": "113",
+        "@y1": "221",
+        "@y2": "235"
+       },
+       "content": "the"
+      },
+      {
+       "@end-col": "7",
+       "@end-row": "41",
+       "@id": "3",
+       "@start-col": "4",
+       "@start-row": "41",
+       "bounding-box": {
+        "@x1": "113",
+        "@x2": "146",
+        "@y1": "221",
+        "@y2": "235"
+       },
+       "content": "laptop"
+      },
+      {
+       "@end-col": "12",
+       "@end-row": "41",
+       "@id": "4",
+       "@start-col": "8",
+       "@start-row": "41",
+       "bounding-box": {
+        "@x1": "146",
+        "@x2": "185",
+        "@y1": "221",
+        "@y2": "235"
+       },
+       "content": "domain"
+      },
+      {
+       "@end-col": "13",
+       "@end-row": "41",
+       "@id": "5",
+       "@start-col": "13",
+       "@start-row": "41",
+       "bounding-box": {
+        "@x1": "185",
+        "@x2": "199",
+        "@y1": "221",
+        "@y2": "235"
+       },
+       "content": "in"
+      },
+      {
+       "@end-col": "20",
+       "@end-row": "41",
+       "@id": "6",
+       "@start-col": "14",
+       "@start-row": "41",
+       "bounding-box": {
+        "@x1": "199",
+        "@x2": "271",
+        "@y1": "221",
+        "@y2": "235"
+       },
+       "content": "SemEval-2016"
+      },
+      {
+       "@end-col": "22",
+       "@end-row": "41",
+       "@id": "7",
+       "@start-col": "21",
+       "@start-row": "41",
+       "bounding-box": {
+        "@x1": "271",
+        "@x2": "299",
+        "@y1": "221",
+        "@y2": "235"
+       },
+       "content": "and"
+      },
+      {
+       "@end-col": "27",
+       "@end-row": "41",
+       "@id": "8",
+       "@start-col": "23",
+       "@start-row": "41",
+       "bounding-box": {
+        "@x1": "299",
+        "@x2": "527",
+        "@y1": "221",
+        "@y2": "235"
+       },
+       "content": "RadioBasisFunctionkerneltobethesentence"
+      },
+      {
+       "@end-col": "16",
+       "@end-row": "42",
+       "@id": "1",
+       "@start-col": "0",
+       "@start-row": "42",
+       "bounding-box": {
+        "@x1": "72",
+        "@x2": "220",
+        "@y1": "208",
+        "@y2": "221"
+       },
+       "content": "SemEval-2015  for  evaluation."
+      },
+      {
+       "@end-col": "22",
+       "@end-row": "42",
+       "@id": "2",
+       "@start-col": "17",
+       "@start-row": "42",
+       "bounding-box": {
+        "@x1": "220",
+        "@x2": "299",
+        "@y1": "208",
+        "@y2": "221"
+       },
+       "content": "Detailed  statis-"
+      },
+      {
+       "@end-col": "27",
+       "@end-row": "42",
+       "@id": "3",
+       "@start-col": "23",
+       "@start-row": "42",
+       "bounding-box": {
+        "@x1": "299",
+        "@x2": "527",
+        "@y1": "208",
+        "@y2": "221"
+       },
+       "content": "summary."
+      },
+      {
+       "@end-col": "22",
+       "@end-row": "43",
+       "@id": "1",
+       "@start-col": "0",
+       "@start-row": "43",
+       "bounding-box": {
+        "@x1": "72",
+        "@x2": "299",
+        "@y1": "192",
+        "@y2": "208"
+       },
+       "content": "tics  ofboth  datasetsare  listedin  Table  1,  and  the"
+      },
+      {
+       "@end-col": "27",
+       "@end-row": "43",
+       "@id": "2",
+       "@start-col": "23",
+       "@start-row": "43",
+       "bounding-box": {
+        "@x1": "299",
+        "@x2": "527",
+        "@y1": "192",
+        "@y2": "208"
+       },
+       "content": "W2VLDA  (Garc\u0131\u0301a-Pablos  et  al.,  2018):  A  state-"
+      },
+      {
+       "@end-col": "22",
+       "@end-row": "44",
+       "@id": "1",
+       "@start-col": "0",
+       "@start-row": "44",
+       "bounding-box": {
+        "@x1": "72",
+        "@x2": "299",
+        "@y1": "185",
+        "@y2": "192"
+       },
+       "content": "aspects  along  with  their  keywords  are  in  Table  2."
+      },
+      {
+       "@end-col": "27",
+       "@end-row": "44",
+       "@id": "2",
+       "@start-col": "23",
+       "@start-row": "44",
+       "bounding-box": {
+        "@x1": "299",
+        "@x2": "527",
+        "@y1": "185",
+        "@y2": "192"
+       },
+       "content": null
+      },
+      {
+       "@end-col": "22",
+       "@end-row": "45",
+       "@id": "1",
+       "@start-col": "0",
+       "@start-row": "45",
+       "bounding-box": {
+        "@x1": "72",
+        "@x2": "299",
+        "@y1": "175",
+        "@y2": "185"
+       },
+       "content": null
+      },
+      {
+       "@end-col": "27",
+       "@end-row": "45",
+       "@id": "2",
+       "@start-col": "23",
+       "@start-row": "45",
+       "bounding-box": {
+        "@x1": "299",
+        "@x2": "527",
+        "@y1": "175",
+        "@y2": "185"
+       },
+       "content": "of-the-art  topic  modeling  based  method  that"
+      },
+      {
+       "@end-col": "22",
+       "@end-row": "46",
+       "@id": "1",
+       "@start-col": "0",
+       "@start-row": "46",
+       "bounding-box": {
+        "@x1": "72",
+        "@x2": "299",
+        "@y1": "161",
+        "@y2": "175"
+       },
+       "content": "PreprocessingandHyperparameterSetting.  To"
+      },
+      {
+       "@end-col": "27",
+       "@end-row": "46",
+       "@id": "2",
+       "@start-col": "23",
+       "@start-row": "46",
+       "bounding-box": {
+        "@x1": "299",
+        "@x2": "527",
+        "@y1": "161",
+        "@y2": "175"
+       },
+       "content": "leverages  keywords  for  each  aspect/sentiment"
+      },
+      {
+       "@end-col": "22",
+       "@end-row": "47",
+       "@id": "1",
+       "@start-col": "0",
+       "@start-row": "47",
+       "bounding-box": {
+        "@x1": "72",
+        "@x2": "299",
+        "@y1": "148",
+        "@y2": "161"
+       },
+       "content": "preprocess  the  training  corpus  D  ,  we  use  the  word"
+      },
+      {
+       "@end-col": "27",
+       "@end-row": "47",
+       "@id": "2",
+       "@start-col": "23",
+       "@start-row": "47",
+       "bounding-box": {
+        "@x1": "299",
+        "@x2": "527",
+        "@y1": "148",
+        "@y2": "161"
+       },
+       "content": "tojointlydoaspect/sentimentclassi\ufb01cation."
+      },
+      {
+       "@end-col": "22",
+       "@end-row": "48",
+       "@id": "1",
+       "@start-col": "0",
+       "@start-row": "48",
+       "bounding-box": {
+        "@x1": "72",
+        "@x2": "299",
+        "@y1": "131",
+        "@y2": "148"
+       },
+       "content": "tokenizerprovidedby  NLTK  3  .Wealsouseaphrase"
+      },
+      {
+       "@end-col": "27",
+       "@end-row": "48",
+       "@id": "2",
+       "@start-col": "23",
+       "@start-row": "48",
+       "bounding-box": {
+        "@x1": "299",
+        "@x2": "527",
+        "@y1": "131",
+        "@y2": "148"
+       },
+       "content": "BERT  (Devlinetal.,2019):  Arecentproposed"
+      },
+      {
+       "@end-col": "22",
+       "@end-row": "49",
+       "@id": "1",
+       "@start-col": "0",
+       "@start-row": "49",
+       "bounding-box": {
+        "@x1": "72",
+        "@x2": "299",
+        "@y1": "118",
+        "@y2": "131"
+       },
+       "content": "mining  tool,  AutoPhrase  (Shang  et  al.,  2017),  to"
+      },
+      {
+       "@end-col": "27",
+       "@end-row": "49",
+       "@id": "2",
+       "@start-col": "23",
+       "@start-row": "49",
+       "bounding-box": {
+        "@x1": "299",
+        "@x2": "527",
+        "@y1": "118",
+        "@y2": "131"
+       },
+       "content": "deep  language  model.  We  utilize  the  pre-trained"
+      },
+      {
+       "@end-col": "22",
+       "@end-row": "50",
+       "@id": "1",
+       "@start-col": "0",
+       "@start-row": "50",
+       "bounding-box": {
+        "@x1": "72",
+        "@x2": "299",
+        "@y1": "102",
+        "@y2": "118"
+       },
+       "content": "extract  meaningful  phrases  such  as  \u201cgreat  wine\u201d"
+      },
+      {
+       "@end-col": "27",
+       "@end-row": "50",
+       "@id": "2",
+       "@start-col": "23",
+       "@start-row": "50",
+       "bounding-box": {
+        "@x1": "299",
+        "@x2": "527",
+        "@y1": "102",
+        "@y2": "118"
+       },
+       "content": "BERT  (12-layer,  768  dimension,  uncased)  and"
+      },
+      {
+       "@end-col": "22",
+       "@end-row": "51",
+       "@id": "1",
+       "@start-col": "0",
+       "@start-row": "51",
+       "bounding-box": {
+        "@x1": "72",
+        "@x2": "299",
+        "@y1": "88",
+        "@y2": "102"
+       },
+       "content": "2  https://www.yelp.com/dataset/challenge"
+      },
+      {
+       "@end-col": "27",
+       "@end-row": "51",
+       "@id": "2",
+       "@start-col": "23",
+       "@start-row": "51",
+       "bounding-box": {
+        "@x1": "299",
+        "@x2": "527",
+        "@y1": "88",
+        "@y2": "102"
+       },
+       "content": "implementasimpleweakly-supervisedmethod"
+      },
+      {
+       "@end-col": "22",
+       "@end-row": "52",
+       "@id": "1",
+       "@start-col": "0",
+       "@start-row": "52",
+       "bounding-box": {
+        "@x1": "72",
+        "@x2": "299",
+        "@y1": "78",
+        "@y2": "88"
+       },
+       "content": "3  https://www.nltk.org/"
+      },
+      {
+       "@end-col": "27",
+       "@end-row": "52",
+       "@id": "2",
+       "@start-col": "23",
+       "@start-row": "52",
+       "bounding-box": {
+        "@x1": "299",
+        "@x2": "527",
+        "@y1": "78",
+        "@y2": "88"
+       },
+       "content": "that  \ufb01ne-tunes  the  model  by  providing  pseudoo"
+      }
+     ]
+    }
+   },
+   {
+    "@id": "3",
+    "region": {
+     "@col-increment": "0",
+     "@id": "1",
+     "@page": "7",
+     "@row-increment": "0",
+     "cell": [
+      {
+       "@end-col": "0",
+       "@end-row": "1",
+       "@id": "1",
+       "@start-col": "0",
+       "@start-row": "0",
+       "bounding-box": {
+        "@x1": "88",
+        "@x2": "168",
+        "@y1": "618",
+        "@y2": "639"
+       },
+       "content": "Methods"
+      },
+      {
+       "@end-col": "1",
+       "@end-row": "0",
+       "@id": "2",
+       "@start-col": "1",
+       "@start-row": "0",
+       "bounding-box": {
+        "@x1": "168",
+        "@x2": "214",
+        "@y1": "631",
+        "@y2": "639"
+       },
+       "content": null
+      },
+      {
+       "@end-col": "3",
+       "@end-row": "0",
+       "@id": "3",
+       "@start-col": "2",
+       "@start-row": "0",
+       "bounding-box": {
+        "@x1": "214",
+        "@x2": "295",
+        "@y1": "631",
+        "@y2": "639"
+       },
+       "content": "Restaurant"
+      },
+      {
+       "@end-col": "4",
+       "@end-row": "0",
+       "@id": "4",
+       "@start-col": "4",
+       "@start-row": "0",
+       "bounding-box": {
+        "@x1": "295",
+        "@x2": "342",
+        "@y1": "631",
+        "@y2": "639"
+       },
+       "content": null
+      },
+      {
+       "@end-col": "5",
+       "@end-row": "0",
+       "@id": "5",
+       "@start-col": "5",
+       "@start-row": "0",
+       "bounding-box": {
+        "@x1": "342",
+        "@x2": "388",
+        "@y1": "631",
+        "@y2": "639"
+       },
+       "content": null
+      },
+      {
+       "@end-col": "7",
+       "@end-row": "0",
+       "@id": "6",
+       "@start-col": "6",
+       "@start-row": "0",
+       "bounding-box": {
+        "@x1": "388",
+        "@x2": "468",
+        "@y1": "631",
+        "@y2": "639"
+       },
+       "content": "Laptop"
+      },
+      {
+       "@end-col": "8",
+       "@end-row": "0",
+       "@id": "7",
+       "@start-col": "8",
+       "@start-row": "0",
+       "bounding-box": {
+        "@x1": "468",
+        "@x2": "509",
+        "@y1": "631",
+        "@y2": "639"
+       },
+       "content": null
+      },
+      {
+       "@end-col": "1",
+       "@end-row": "1",
+       "@id": "1",
+       "@start-col": "1",
+       "@start-row": "1",
+       "bounding-box": {
+        "@x1": "168",
+        "@x2": "214",
+        "@y1": "618",
+        "@y2": "631"
+       },
+       "content": "Accuracy"
+      },
+      {
+       "@end-col": "2",
+       "@end-row": "1",
+       "@id": "2",
+       "@start-col": "2",
+       "@start-row": "1",
+       "bounding-box": {
+        "@x1": "214",
+        "@x2": "260",
+        "@y1": "618",
+        "@y2": "631"
+       },
+       "content": "Precision"
+      },
+      {
+       "@end-col": "3",
+       "@end-row": "1",
+       "@id": "3",
+       "@start-col": "3",
+       "@start-row": "1",
+       "bounding-box": {
+        "@x1": "260",
+        "@x2": "295",
+        "@y1": "618",
+        "@y2": "631"
+       },
+       "content": "Recall"
+      },
+      {
+       "@end-col": "4",
+       "@end-row": "1",
+       "@id": "4",
+       "@start-col": "4",
+       "@start-row": "1",
+       "bounding-box": {
+        "@x1": "295",
+        "@x2": "342",
+        "@y1": "618",
+        "@y2": "631"
+       },
+       "content": "macro-F1"
+      },
+      {
+       "@end-col": "5",
+       "@end-row": "1",
+       "@id": "5",
+       "@start-col": "5",
+       "@start-row": "1",
+       "bounding-box": {
+        "@x1": "342",
+        "@x2": "388",
+        "@y1": "618",
+        "@y2": "631"
+       },
+       "content": "Accuracy"
+      },
+      {
+       "@end-col": "6",
+       "@end-row": "1",
+       "@id": "6",
+       "@start-col": "6",
+       "@start-row": "1",
+       "bounding-box": {
+        "@x1": "388",
+        "@x2": "433",
+        "@y1": "618",
+        "@y2": "631"
+       },
+       "content": "Precision"
+      },
+      {
+       "@end-col": "7",
+       "@end-row": "1",
+       "@id": "7",
+       "@start-col": "7",
+       "@start-row": "1",
+       "bounding-box": {
+        "@x1": "433",
+        "@x2": "468",
+        "@y1": "618",
+        "@y2": "631"
+       },
+       "content": "Recall"
+      },
+      {
+       "@end-col": "8",
+       "@end-row": "1",
+       "@id": "8",
+       "@start-col": "8",
+       "@start-row": "1",
+       "bounding-box": {
+        "@x1": "468",
+        "@x2": "509",
+        "@y1": "618",
+        "@y2": "631"
+       },
+       "content": "macro-F1"
+      },
+      {
+       "@end-col": "0",
+       "@end-row": "2",
+       "@id": "1",
+       "@start-col": "0",
+       "@start-row": "2",
+       "bounding-box": {
+        "@x1": "88",
+        "@x2": "168",
+        "@y1": "606",
+        "@y2": "618"
+       },
+       "content": "CosSim"
+      },
+      {
+       "@end-col": "1",
+       "@end-row": "2",
+       "@id": "2",
+       "@start-col": "1",
+       "@start-row": "2",
+       "bounding-box": {
+        "@x1": "168",
+        "@x2": "214",
+        "@y1": "606",
+        "@y2": "618"
+       },
+       "content": "70.14"
+      },
+      {
+       "@end-col": "2",
+       "@end-row": "2",
+       "@id": "3",
+       "@start-col": "2",
+       "@start-row": "2",
+       "bounding-box": {
+        "@x1": "214",
+        "@x2": "260",
+        "@y1": "606",
+        "@y2": "618"
+       },
+       "content": "74.72"
+      },
+      {
+       "@end-col": "3",
+       "@end-row": "2",
+       "@id": "4",
+       "@start-col": "3",
+       "@start-row": "2",
+       "bounding-box": {
+        "@x1": "260",
+        "@x2": "295",
+        "@y1": "606",
+        "@y2": "618"
+       },
+       "content": "61.26"
+      },
+      {
+       "@end-col": "4",
+       "@end-row": "2",
+       "@id": "5",
+       "@start-col": "4",
+       "@start-row": "2",
+       "bounding-box": {
+        "@x1": "295",
+        "@x2": "342",
+        "@y1": "606",
+        "@y2": "618"
+       },
+       "content": "59.89"
+      },
+      {
+       "@end-col": "5",
+       "@end-row": "2",
+       "@id": "6",
+       "@start-col": "5",
+       "@start-row": "2",
+       "bounding-box": {
+        "@x1": "342",
+        "@x2": "388",
+        "@y1": "606",
+        "@y2": "618"
+       },
+       "content": "68.73"
+      },
+      {
+       "@end-col": "6",
+       "@end-row": "2",
+       "@id": "7",
+       "@start-col": "6",
+       "@start-row": "2",
+       "bounding-box": {
+        "@x1": "388",
+        "@x2": "433",
+        "@y1": "606",
+        "@y2": "618"
+       },
+       "content": "69.91"
+      },
+      {
+       "@end-col": "7",
+       "@end-row": "2",
+       "@id": "8",
+       "@start-col": "7",
+       "@start-row": "2",
+       "bounding-box": {
+        "@x1": "433",
+        "@x2": "468",
+        "@y1": "606",
+        "@y2": "618"
+       },
+       "content": "68.95"
+      },
+      {
+       "@end-col": "8",
+       "@end-row": "2",
+       "@id": "9",
+       "@start-col": "8",
+       "@start-row": "2",
+       "bounding-box": {
+        "@x1": "468",
+        "@x2": "509",
+        "@y1": "606",
+        "@y2": "618"
+       },
+       "content": "68.41"
+      },
+      {
+       "@end-col": "0",
+       "@end-row": "3",
+       "@id": "1",
+       "@start-col": "0",
+       "@start-row": "3",
+       "bounding-box": {
+        "@x1": "88",
+        "@x2": "168",
+        "@y1": "596",
+        "@y2": "606"
+       },
+       "content": "W2VLDA"
+      },
+      {
+       "@end-col": "1",
+       "@end-row": "3",
+       "@id": "2",
+       "@start-col": "1",
+       "@start-row": "3",
+       "bounding-box": {
+        "@x1": "168",
+        "@x2": "214",
+        "@y1": "596",
+        "@y2": "606"
+       },
+       "content": "74.32"
+      },
+      {
+       "@end-col": "2",
+       "@end-row": "3",
+       "@id": "3",
+       "@start-col": "2",
+       "@start-row": "3",
+       "bounding-box": {
+        "@x1": "214",
+        "@x2": "260",
+        "@y1": "596",
+        "@y2": "606"
+       },
+       "content": "75.66"
+      },
+      {
+       "@end-col": "3",
+       "@end-row": "3",
+       "@id": "4",
+       "@start-col": "3",
+       "@start-row": "3",
+       "bounding-box": {
+        "@x1": "260",
+        "@x2": "295",
+        "@y1": "596",
+        "@y2": "606"
+       },
+       "content": "70.52"
+      },
+      {
+       "@end-col": "4",
+       "@end-row": "3",
+       "@id": "5",
+       "@start-col": "4",
+       "@start-row": "3",
+       "bounding-box": {
+        "@x1": "295",
+        "@x2": "342",
+        "@y1": "596",
+        "@y2": "606"
+       },
+       "content": "67.23"
+      },
+      {
+       "@end-col": "5",
+       "@end-row": "3",
+       "@id": "6",
+       "@start-col": "5",
+       "@start-row": "3",
+       "bounding-box": {
+        "@x1": "342",
+        "@x2": "388",
+        "@y1": "596",
+        "@y2": "606"
+       },
+       "content": "71.06"
+      },
+      {
+       "@end-col": "6",
+       "@end-row": "3",
+       "@id": "7",
+       "@start-col": "6",
+       "@start-row": "3",
+       "bounding-box": {
+        "@x1": "388",
+        "@x2": "433",
+        "@y1": "596",
+        "@y2": "606"
+       },
+       "content": "71.62"
+      },
+      {
+       "@end-col": "7",
+       "@end-row": "3",
+       "@id": "8",
+       "@start-col": "7",
+       "@start-row": "3",
+       "bounding-box": {
+        "@x1": "433",
+        "@x2": "468",
+        "@y1": "596",
+        "@y2": "606"
+       },
+       "content": "71.37"
+      },
+      {
+       "@end-col": "8",
+       "@end-row": "3",
+       "@id": "9",
+       "@start-col": "8",
+       "@start-row": "3",
+       "bounding-box": {
+        "@x1": "468",
+        "@x2": "509",
+        "@y1": "596",
+        "@y2": "606"
+       },
+       "content": "71.22"
+      },
+      {
+       "@end-col": "0",
+       "@end-row": "4",
+       "@id": "1",
+       "@start-col": "0",
+       "@start-row": "4",
+       "bounding-box": {
+        "@x1": "88",
+        "@x2": "168",
+        "@y1": "586",
+        "@y2": "596"
+       },
+       "content": "BERT"
+      },
+      {
+       "@end-col": "1",
+       "@end-row": "4",
+       "@id": "2",
+       "@start-col": "1",
+       "@start-row": "4",
+       "bounding-box": {
+        "@x1": "168",
+        "@x2": "214",
+        "@y1": "586",
+        "@y2": "596"
+       },
+       "content": "77.48"
+      },
+      {
+       "@end-col": "2",
+       "@end-row": "4",
+       "@id": "3",
+       "@start-col": "2",
+       "@start-row": "4",
+       "bounding-box": {
+        "@x1": "214",
+        "@x2": "260",
+        "@y1": "586",
+        "@y2": "596"
+       },
+       "content": "77.62"
+      },
+      {
+       "@end-col": "3",
+       "@end-row": "4",
+       "@id": "4",
+       "@start-col": "3",
+       "@start-row": "4",
+       "bounding-box": {
+        "@x1": "260",
+        "@x2": "295",
+        "@y1": "586",
+        "@y2": "596"
+       },
+       "content": "73.95"
+      },
+      {
+       "@end-col": "4",
+       "@end-row": "4",
+       "@id": "5",
+       "@start-col": "4",
+       "@start-row": "4",
+       "bounding-box": {
+        "@x1": "295",
+        "@x2": "342",
+        "@y1": "586",
+        "@y2": "596"
+       },
+       "content": "73.82"
+      },
+      {
+       "@end-col": "5",
+       "@end-row": "4",
+       "@id": "6",
+       "@start-col": "5",
+       "@start-row": "4",
+       "bounding-box": {
+        "@x1": "342",
+        "@x2": "388",
+        "@y1": "586",
+        "@y2": "596"
+       },
+       "content": "69.71"
+      },
+      {
+       "@end-col": "6",
+       "@end-row": "4",
+       "@id": "7",
+       "@start-col": "6",
+       "@start-row": "4",
+       "bounding-box": {
+        "@x1": "388",
+        "@x2": "433",
+        "@y1": "586",
+        "@y2": "596"
+       },
+       "content": "70.10"
+      },
+      {
+       "@end-col": "7",
+       "@end-row": "4",
+       "@id": "8",
+       "@start-col": "7",
+       "@start-row": "4",
+       "bounding-box": {
+        "@x1": "433",
+        "@x2": "468",
+        "@y1": "586",
+        "@y2": "596"
+       },
+       "content": "70.26"
+      },
+      {
+       "@end-col": "8",
+       "@end-row": "4",
+       "@id": "9",
+       "@start-col": "8",
+       "@start-row": "4",
+       "bounding-box": {
+        "@x1": "468",
+        "@x2": "509",
+        "@y1": "586",
+        "@y2": "596"
+       },
+       "content": "70.08"
+      },
+      {
+       "@end-col": "0",
+       "@end-row": "5",
+       "@id": "1",
+       "@start-col": "0",
+       "@start-row": "5",
+       "bounding-box": {
+        "@x1": "88",
+        "@x2": "168",
+        "@y1": "576",
+        "@y2": "586"
+       },
+       "content": "JASen  w/o  joint"
+      },
+      {
+       "@end-col": "1",
+       "@end-row": "5",
+       "@id": "2",
+       "@start-col": "1",
+       "@start-row": "5",
+       "bounding-box": {
+        "@x1": "168",
+        "@x2": "214",
+        "@y1": "576",
+        "@y2": "586"
+       },
+       "content": "78.07"
+      },
+      {
+       "@end-col": "2",
+       "@end-row": "5",
+       "@id": "3",
+       "@start-col": "2",
+       "@start-row": "5",
+       "bounding-box": {
+        "@x1": "214",
+        "@x2": "260",
+        "@y1": "576",
+        "@y2": "586"
+       },
+       "content": "80.60"
+      },
+      {
+       "@end-col": "3",
+       "@end-row": "5",
+       "@id": "4",
+       "@start-col": "3",
+       "@start-row": "5",
+       "bounding-box": {
+        "@x1": "260",
+        "@x2": "295",
+        "@y1": "576",
+        "@y2": "586"
+       },
+       "content": "72.40"
+      },
+      {
+       "@end-col": "4",
+       "@end-row": "5",
+       "@id": "5",
+       "@start-col": "4",
+       "@start-row": "5",
+       "bounding-box": {
+        "@x1": "295",
+        "@x2": "342",
+        "@y1": "576",
+        "@y2": "586"
+       },
+       "content": "73.71"
+      },
+      {
+       "@end-col": "5",
+       "@end-row": "5",
+       "@id": "6",
+       "@start-col": "5",
+       "@start-row": "5",
+       "bounding-box": {
+        "@x1": "342",
+        "@x2": "388",
+        "@y1": "576",
+        "@y2": "586"
+       },
+       "content": "72.31"
+      },
+      {
+       "@end-col": "6",
+       "@end-row": "5",
+       "@id": "7",
+       "@start-col": "6",
+       "@start-row": "5",
+       "bounding-box": {
+        "@x1": "388",
+        "@x2": "433",
+        "@y1": "576",
+        "@y2": "586"
+       },
+       "content": "72.34"
+      },
+      {
+       "@end-col": "7",
+       "@end-row": "5",
+       "@id": "8",
+       "@start-col": "7",
+       "@start-row": "5",
+       "bounding-box": {
+        "@x1": "433",
+        "@x2": "468",
+        "@y1": "576",
+        "@y2": "586"
+       },
+       "content": "72.25"
+      },
+      {
+       "@end-col": "8",
+       "@end-row": "5",
+       "@id": "9",
+       "@start-col": "8",
+       "@start-row": "5",
+       "bounding-box": {
+        "@x1": "468",
+        "@x2": "509",
+        "@y1": "576",
+        "@y2": "586"
+       },
+       "content": "72.26"
+      },
+      {
+       "@end-col": "0",
+       "@end-row": "6",
+       "@id": "1",
+       "@start-col": "0",
+       "@start-row": "6",
+       "bounding-box": {
+        "@x1": "88",
+        "@x2": "168",
+        "@y1": "566",
+        "@y2": "576"
+       },
+       "content": "JASen  w/o  self  train"
+      },
+      {
+       "@end-col": "1",
+       "@end-row": "6",
+       "@id": "2",
+       "@start-col": "1",
+       "@start-row": "6",
+       "bounding-box": {
+        "@x1": "168",
+        "@x2": "214",
+        "@y1": "566",
+        "@y2": "576"
+       },
+       "content": "79.16"
+      },
+      {
+       "@end-col": "2",
+       "@end-row": "6",
+       "@id": "3",
+       "@start-col": "2",
+       "@start-row": "6",
+       "bounding-box": {
+        "@x1": "214",
+        "@x2": "260",
+        "@y1": "566",
+        "@y2": "576"
+       },
+       "content": "81.31"
+      },
+      {
+       "@end-col": "3",
+       "@end-row": "6",
+       "@id": "4",
+       "@start-col": "3",
+       "@start-row": "6",
+       "bounding-box": {
+        "@x1": "260",
+        "@x2": "295",
+        "@y1": "566",
+        "@y2": "576"
+       },
+       "content": "73.94"
+      },
+      {
+       "@end-col": "4",
+       "@end-row": "6",
+       "@id": "5",
+       "@start-col": "4",
+       "@start-row": "6",
+       "bounding-box": {
+        "@x1": "295",
+        "@x2": "342",
+        "@y1": "566",
+        "@y2": "576"
+       },
+       "content": "75.34"
+      },
+      {
+       "@end-col": "5",
+       "@end-row": "6",
+       "@id": "6",
+       "@start-col": "5",
+       "@start-row": "6",
+       "bounding-box": {
+        "@x1": "342",
+        "@x2": "388",
+        "@y1": "566",
+        "@y2": "576"
+       },
+       "content": "73.29"
+      },
+      {
+       "@end-col": "6",
+       "@end-row": "6",
+       "@id": "7",
+       "@start-col": "6",
+       "@start-row": "6",
+       "bounding-box": {
+        "@x1": "388",
+        "@x2": "433",
+        "@y1": "566",
+        "@y2": "576"
+       },
+       "content": "73.69"
+      },
+      {
+       "@end-col": "7",
+       "@end-row": "6",
+       "@id": "8",
+       "@start-col": "7",
+       "@start-row": "6",
+       "bounding-box": {
+        "@x1": "433",
+        "@x2": "468",
+        "@y1": "566",
+        "@y2": "576"
+       },
+       "content": "73.42"
+      },
+      {
+       "@end-col": "8",
+       "@end-row": "6",
+       "@id": "9",
+       "@start-col": "8",
+       "@start-row": "6",
+       "bounding-box": {
+        "@x1": "468",
+        "@x2": "509",
+        "@y1": "566",
+        "@y2": "576"
+       },
+       "content": "73.24"
+      },
+      {
+       "@end-col": "0",
+       "@end-row": "7",
+       "@id": "1",
+       "@start-col": "0",
+       "@start-row": "7",
+       "bounding-box": {
+        "@x1": "88",
+        "@x2": "168",
+        "@y1": "558",
+        "@y2": "566"
+       },
+       "content": "JASen"
+      },
+      {
+       "@end-col": "1",
+       "@end-row": "7",
+       "@id": "2",
+       "@start-col": "1",
+       "@start-row": "7",
+       "bounding-box": {
+        "@x1": "168",
+        "@x2": "214",
+        "@y1": "558",
+        "@y2": "566"
+       },
+       "content": "81.96"
+      },
+      {
+       "@end-col": "2",
+       "@end-row": "7",
+       "@id": "3",
+       "@start-col": "2",
+       "@start-row": "7",
+       "bounding-box": {
+        "@x1": "214",
+        "@x2": "260",
+        "@y1": "558",
+        "@y2": "566"
+       },
+       "content": "82.85"
+      },
+      {
+       "@end-col": "3",
+       "@end-row": "7",
+       "@id": "4",
+       "@start-col": "3",
+       "@start-row": "7",
+       "bounding-box": {
+        "@x1": "260",
+        "@x2": "295",
+        "@y1": "558",
+        "@y2": "566"
+       },
+       "content": "78.11"
+      },
+      {
+       "@end-col": "4",
+       "@end-row": "7",
+       "@id": "5",
+       "@start-col": "4",
+       "@start-row": "7",
+       "bounding-box": {
+        "@x1": "295",
+        "@x2": "342",
+        "@y1": "558",
+        "@y2": "566"
+       },
+       "content": "79.44"
+      },
+      {
+       "@end-col": "5",
+       "@end-row": "7",
+       "@id": "6",
+       "@start-col": "5",
+       "@start-row": "7",
+       "bounding-box": {
+        "@x1": "342",
+        "@x2": "388",
+        "@y1": "558",
+        "@y2": "566"
+       },
+       "content": "74.59"
+      },
+      {
+       "@end-col": "6",
+       "@end-row": "7",
+       "@id": "7",
+       "@start-col": "6",
+       "@start-row": "7",
+       "bounding-box": {
+        "@x1": "388",
+        "@x2": "433",
+        "@y1": "558",
+        "@y2": "566"
+       },
+       "content": "74.69"
+      },
+      {
+       "@end-col": "7",
+       "@end-row": "7",
+       "@id": "8",
+       "@start-col": "7",
+       "@start-row": "7",
+       "bounding-box": {
+        "@x1": "433",
+        "@x2": "468",
+        "@y1": "558",
+        "@y2": "566"
+       },
+       "content": "74.65"
+      },
+      {
+       "@end-col": "8",
+       "@end-row": "7",
+       "@id": "9",
+       "@start-col": "8",
+       "@start-row": "7",
+       "bounding-box": {
+        "@x1": "468",
+        "@x2": "509",
+        "@y1": "558",
+        "@y2": "566"
+       },
+       "content": "74.59"
+      }
+     ]
+    }
+   },
+   {
+    "@id": "4",
+    "region": {
+     "@col-increment": "0",
+     "@id": "1",
+     "@page": "8",
+     "@row-increment": "0",
+     "cell": [
+      {
+       "@end-col": "0",
+       "@end-row": "0",
+       "@id": "1",
+       "@start-col": "0",
+       "@start-row": "0",
+       "bounding-box": {
+        "@x1": "105",
+        "@x2": "117",
+        "@y1": "625",
+        "@y2": "633"
+       },
+       "content": null
+      },
+      {
+       "@end-col": "2",
+       "@end-row": "0",
+       "@id": "2",
+       "@start-col": "1",
+       "@start-row": "0",
+       "bounding-box": {
+        "@x1": "117",
+        "@x2": "252",
+        "@y1": "625",
+        "@y2": "633"
+       },
+       "content": null
+      },
+      {
+       "@end-col": "3",
+       "@end-row": "0",
+       "@id": "3",
+       "@start-col": "3",
+       "@start-row": "0",
+       "bounding-box": {
+        "@x1": "252",
+        "@x2": "295",
+        "@y1": "625",
+        "@y2": "633"
+       },
+       "content": null
+      },
+      {
+       "@end-col": "4",
+       "@end-row": "0",
+       "@id": "4",
+       "@start-col": "4",
+       "@start-row": "0",
+       "bounding-box": {
+        "@x1": "295",
+        "@x2": "326",
+        "@y1": "625",
+        "@y2": "633"
+       },
+       "content": "5.5"
+      },
+      {
+       "@end-col": "6",
+       "@end-row": "0",
+       "@id": "5",
+       "@start-col": "5",
+       "@start-row": "0",
+       "bounding-box": {
+        "@x1": "326",
+        "@x2": "527",
+        "@y1": "625",
+        "@y2": "633"
+       },
+       "content": "JointTopicRepresentationVisualization"
+      },
+      {
+       "@end-col": "0",
+       "@end-row": "1",
+       "@id": "1",
+       "@start-col": "0",
+       "@start-row": "1",
+       "bounding-box": {
+        "@x1": "105",
+        "@x2": "117",
+        "@y1": "618",
+        "@y2": "625"
+       },
+       "content": null
+      },
+      {
+       "@end-col": "2",
+       "@end-row": "1",
+       "@id": "2",
+       "@start-col": "1",
+       "@start-row": "1",
+       "bounding-box": {
+        "@x1": "117",
+        "@x2": "252",
+        "@y1": "618",
+        "@y2": "625"
+       },
+       "content": "JASen"
+      },
+      {
+       "@end-col": "3",
+       "@end-row": "1",
+       "@id": "3",
+       "@start-col": "3",
+       "@start-row": "1",
+       "bounding-box": {
+        "@x1": "252",
+        "@x2": "295",
+        "@y1": "618",
+        "@y2": "625"
+       },
+       "content": null
+      },
+      {
+       "@end-col": "4",
+       "@end-row": "1",
+       "@id": "4",
+       "@start-col": "4",
+       "@start-row": "1",
+       "bounding-box": {
+        "@x1": "295",
+        "@x2": "326",
+        "@y1": "618",
+        "@y2": "625"
+       },
+       "content": null
+      },
+      {
+       "@end-col": "6",
+       "@end-row": "1",
+       "@id": "5",
+       "@start-col": "5",
+       "@start-row": "1",
+       "bounding-box": {
+        "@x1": "326",
+        "@x2": "527",
+        "@y1": "618",
+        "@y2": "625"
+       },
+       "content": null
+      },
+      {
+       "@end-col": "0",
+       "@end-row": "2",
+       "@id": "1",
+       "@start-col": "0",
+       "@start-row": "2",
+       "bounding-box": {
+        "@x1": "105",
+        "@x2": "117",
+        "@y1": "603",
+        "@y2": "618"
+       },
+       "content": null
+      },
+      {
+       "@end-col": "2",
+       "@end-row": "2",
+       "@id": "2",
+       "@start-col": "1",
+       "@start-row": "2",
+       "bounding-box": {
+        "@x1": "117",
+        "@x2": "252",
+        "@y1": "603",
+        "@y2": "618"
+       },
+       "content": "JASen     w/o     joint     topic"
+      },
+      {
+       "@end-col": "3",
+       "@end-row": "2",
+       "@id": "3",
+       "@start-col": "3",
+       "@start-row": "2",
+       "bounding-box": {
+        "@x1": "252",
+        "@x2": "295",
+        "@y1": "603",
+        "@y2": "618"
+       },
+       "content": null
+      },
+      {
+       "@end-col": "6",
+       "@end-row": "2",
+       "@id": "4",
+       "@start-col": "4",
+       "@start-row": "2",
+       "bounding-box": {
+        "@x1": "295",
+        "@x2": "527",
+        "@y1": "603",
+        "@y2": "618"
+       },
+       "content": "Tounderstandhowthejointtopicsaredistributed"
+      },
+      {
+       "@end-col": "0",
+       "@end-row": "3",
+       "@id": "1",
+       "@start-col": "0",
+       "@start-row": "3",
+       "bounding-box": {
+        "@x1": "105",
+        "@x2": "117",
+        "@y1": "593",
+        "@y2": "603"
+       },
+       "content": null
+      },
+      {
+       "@end-col": "2",
+       "@end-row": "3",
+       "@id": "2",
+       "@start-col": "1",
+       "@start-row": "3",
+       "bounding-box": {
+        "@x1": "117",
+        "@x2": "252",
+        "@y1": "593",
+        "@y2": "603"
+       },
+       "content": null
+      },
+      {
+       "@end-col": "3",
+       "@end-row": "3",
+       "@id": "3",
+       "@start-col": "3",
+       "@start-row": "3",
+       "bounding-box": {
+        "@x1": "252",
+        "@x2": "295",
+        "@y1": "593",
+        "@y2": "603"
+       },
+       "content": null
+      },
+      {
+       "@end-col": "6",
+       "@end-row": "3",
+       "@id": "4",
+       "@start-col": "4",
+       "@start-row": "3",
+       "bounding-box": {
+        "@x1": "295",
+        "@x2": "527",
+        "@y1": "593",
+        "@y2": "603"
+       },
+       "content": "in  the  embedding  space,  along  with  the  aspect  and"
+      },
+      {
+       "@end-col": "0",
+       "@end-row": "4",
+       "@id": "1",
+       "@start-col": "0",
+       "@start-row": "4",
+       "bounding-box": {
+        "@x1": "105",
+        "@x2": "117",
+        "@y1": "587",
+        "@y2": "593"
+       },
+       "content": null
+      },
+      {
+       "@end-col": "2",
+       "@end-row": "4",
+       "@id": "2",
+       "@start-col": "1",
+       "@start-row": "4",
+       "bounding-box": {
+        "@x1": "117",
+        "@x2": "252",
+        "@y1": "587",
+        "@y2": "593"
+       },
+       "content": null
+      },
+      {
+       "@end-col": "3",
+       "@end-row": "4",
+       "@id": "3",
+       "@start-col": "3",
+       "@start-row": "4",
+       "bounding-box": {
+        "@x1": "252",
+        "@x2": "295",
+        "@y1": "587",
+        "@y2": "593"
+       },
+       "content": null
+      },
+      {
+       "@end-col": "6",
+       "@end-row": "4",
+       "@id": "4",
+       "@start-col": "4",
+       "@start-row": "4",
+       "bounding-box": {
+        "@x1": "295",
+        "@x2": "527",
+        "@y1": "587",
+        "@y2": "593"
+       },
+       "content": null
+      },
+      {
+       "@end-col": "0",
+       "@end-row": "5",
+       "@id": "1",
+       "@start-col": "0",
+       "@start-row": "5",
+       "bounding-box": {
+        "@x1": "105",
+        "@x2": "117",
+        "@y1": "576",
+        "@y2": "587"
+       },
+       "content": null
+      },
+      {
+       "@end-col": "2",
+       "@end-row": "5",
+       "@id": "2",
+       "@start-col": "1",
+       "@start-row": "5",
+       "bounding-box": {
+        "@x1": "117",
+        "@x2": "252",
+        "@y1": "576",
+        "@y2": "587"
+       },
+       "content": null
+      },
+      {
+       "@end-col": "3",
+       "@end-row": "5",
+       "@id": "3",
+       "@start-col": "3",
+       "@start-row": "5",
+       "bounding-box": {
+        "@x1": "252",
+        "@x2": "295",
+        "@y1": "576",
+        "@y2": "587"
+       },
+       "content": null
+      },
+      {
+       "@end-col": "6",
+       "@end-row": "5",
+       "@id": "4",
+       "@start-col": "4",
+       "@start-row": "5",
+       "bounding-box": {
+        "@x1": "295",
+        "@x2": "527",
+        "@y1": "576",
+        "@y2": "587"
+       },
+       "content": "sentiment  topics,  we  use  PCA  (Jolliffe,  2011)  for"
+      },
+      {
+       "@end-col": "0",
+       "@end-row": "6",
+       "@id": "1",
+       "@start-col": "0",
+       "@start-row": "6",
+       "bounding-box": {
+        "@x1": "105",
+        "@x2": "117",
+        "@y1": "562",
+        "@y2": "576"
+       },
+       "content": null
+      },
+      {
+       "@end-col": "2",
+       "@end-row": "6",
+       "@id": "2",
+       "@start-col": "1",
+       "@start-row": "6",
+       "bounding-box": {
+        "@x1": "117",
+        "@x2": "252",
+        "@y1": "562",
+        "@y2": "576"
+       },
+       "content": null
+      },
+      {
+       "@end-col": "3",
+       "@end-row": "6",
+       "@id": "3",
+       "@start-col": "3",
+       "@start-row": "6",
+       "bounding-box": {
+        "@x1": "252",
+        "@x2": "295",
+        "@y1": "562",
+        "@y2": "576"
+       },
+       "content": null
+      },
+      {
+       "@end-col": "6",
+       "@end-row": "6",
+       "@id": "4",
+       "@start-col": "4",
+       "@start-row": "6",
+       "bounding-box": {
+        "@x1": "295",
+        "@x2": "527",
+        "@y1": "562",
+        "@y2": "576"
+       },
+       "content": "dimensionreductiontovisualizetopicembedding"
+      },
+      {
+       "@end-col": "0",
+       "@end-row": "7",
+       "@id": "1",
+       "@start-col": "0",
+       "@start-row": "7",
+       "bounding-box": {
+        "@x1": "105",
+        "@x2": "117",
+        "@y1": "551",
+        "@y2": "562"
+       },
+       "content": null
+      },
+      {
+       "@end-col": "2",
+       "@end-row": "7",
+       "@id": "2",
+       "@start-col": "1",
+       "@start-row": "7",
+       "bounding-box": {
+        "@x1": "117",
+        "@x2": "252",
+        "@y1": "551",
+        "@y2": "562"
+       },
+       "content": null
+      },
+      {
+       "@end-col": "3",
+       "@end-row": "7",
+       "@id": "3",
+       "@start-col": "3",
+       "@start-row": "7",
+       "bounding-box": {
+        "@x1": "252",
+        "@x2": "295",
+        "@y1": "551",
+        "@y2": "562"
+       },
+       "content": null
+      },
+      {
+       "@end-col": "5",
+       "@end-row": "7",
+       "@id": "4",
+       "@start-col": "4",
+       "@start-row": "7",
+       "bounding-box": {
+        "@x1": "295",
+        "@x2": "508",
+        "@y1": "551",
+        "@y2": "562"
+       },
+       "content": "trained  on  the  Restaurant  corpus  in  Fig.  5."
+      },
+      {
+       "@end-col": "6",
+       "@end-row": "7",
+       "@id": "5",
+       "@start-col": "6",
+       "@start-row": "7",
+       "bounding-box": {
+        "@x1": "508",
+        "@x2": "527",
+        "@y1": "551",
+        "@y2": "562"
+       },
+       "content": "An"
+      },
+      {
+       "@end-col": "0",
+       "@end-row": "8",
+       "@id": "1",
+       "@start-col": "0",
+       "@start-row": "8",
+       "bounding-box": {
+        "@x1": "105",
+        "@x2": "117",
+        "@y1": "535",
+        "@y2": "551"
+       },
+       "content": null
+      },
+      {
+       "@end-col": "2",
+       "@end-row": "8",
+       "@id": "2",
+       "@start-col": "1",
+       "@start-row": "8",
+       "bounding-box": {
+        "@x1": "117",
+        "@x2": "252",
+        "@y1": "535",
+        "@y2": "551"
+       },
+       "content": null
+      },
+      {
+       "@end-col": "3",
+       "@end-row": "8",
+       "@id": "3",
+       "@start-col": "3",
+       "@start-row": "8",
+       "bounding-box": {
+        "@x1": "252",
+        "@x2": "295",
+        "@y1": "535",
+        "@y2": "551"
+       },
+       "content": null
+      },
+      {
+       "@end-col": "6",
+       "@end-row": "8",
+       "@id": "4",
+       "@start-col": "4",
+       "@start-row": "8",
+       "bounding-box": {
+        "@x1": "295",
+        "@x2": "527",
+        "@y1": "535",
+        "@y2": "551"
+       },
+       "content": "interestingobservationisthat,someaspecttopics"
+      },
+      {
+       "@end-col": "0",
+       "@end-row": "9",
+       "@id": "1",
+       "@start-col": "0",
+       "@start-row": "9",
+       "bounding-box": {
+        "@x1": "105",
+        "@x2": "117",
+        "@y1": "521",
+        "@y2": "535"
+       },
+       "content": null
+      },
+      {
+       "@end-col": "2",
+       "@end-row": "9",
+       "@id": "2",
+       "@start-col": "1",
+       "@start-row": "9",
+       "bounding-box": {
+        "@x1": "117",
+        "@x2": "252",
+        "@y1": "521",
+        "@y2": "535"
+       },
+       "content": null
+      },
+      {
+       "@end-col": "3",
+       "@end-row": "9",
+       "@id": "3",
+       "@start-col": "3",
+       "@start-row": "9",
+       "bounding-box": {
+        "@x1": "252",
+        "@x2": "295",
+        "@y1": "521",
+        "@y2": "535"
+       },
+       "content": null
+      },
+      {
+       "@end-col": "6",
+       "@end-row": "9",
+       "@id": "4",
+       "@start-col": "4",
+       "@start-row": "9",
+       "bounding-box": {
+        "@x1": "295",
+        "@x2": "527",
+        "@y1": "521",
+        "@y2": "535"
+       },
+       "content": "(e.g.,  ambience  )  lie  approximately  in  the  middle"
+      },
+      {
+       "@end-col": "0",
+       "@end-row": "10",
+       "@id": "1",
+       "@start-col": "0",
+       "@start-row": "10",
+       "bounding-box": {
+        "@x1": "105",
+        "@x2": "117",
+        "@y1": "514",
+        "@y2": "521"
+       },
+       "content": "1"
+      },
+      {
+       "@end-col": "1",
+       "@end-row": "10",
+       "@id": "2",
+       "@start-col": "1",
+       "@start-row": "10",
+       "bounding-box": {
+        "@x1": "117",
+        "@x2": "153",
+        "@y1": "514",
+        "@y2": "521"
+       },
+       "content": "3"
+      },
+      {
+       "@end-col": "2",
+       "@end-row": "10",
+       "@id": "3",
+       "@start-col": "2",
+       "@start-row": "10",
+       "bounding-box": {
+        "@x1": "153",
+        "@x2": "252",
+        "@y1": "514",
+        "@y2": "521"
+       },
+       "content": "5"
+      },
+      {
+       "@end-col": "3",
+       "@end-row": "10",
+       "@id": "4",
+       "@start-col": "3",
+       "@start-row": "10",
+       "bounding-box": {
+        "@x1": "252",
+        "@x2": "295",
+        "@y1": "514",
+        "@y2": "521"
+       },
+       "content": "10"
+      },
+      {
+       "@end-col": "6",
+       "@end-row": "11",
+       "@id": "5",
+       "@start-col": "4",
+       "@start-row": "10",
+       "bounding-box": {
+        "@x1": "295",
+        "@x2": "527",
+        "@y1": "507",
+        "@y2": "521"
+       },
+       "content": "of  their  joint  topics  (\u201c  good,  ambience  \u201d  and  \u201c  bad,"
+      },
+      {
+       "@end-col": "0",
+       "@end-row": "11",
+       "@id": "1",
+       "@start-col": "0",
+       "@start-row": "11",
+       "bounding-box": {
+        "@x1": "105",
+        "@x2": "117",
+        "@y1": "507",
+        "@y2": "514"
+       },
+       "content": null
+      },
+      {
+       "@end-col": "2",
+       "@end-row": "11",
+       "@id": "2",
+       "@start-col": "1",
+       "@start-row": "11",
+       "bounding-box": {
+        "@x1": "117",
+        "@x2": "252",
+        "@y1": "507",
+        "@y2": "514"
+       },
+       "content": "Number     of     keywords"
+      },
+      {
+       "@end-col": "3",
+       "@end-row": "11",
+       "@id": "3",
+       "@start-col": "3",
+       "@start-row": "11",
+       "bounding-box": {
+        "@x1": "252",
+        "@x2": "295",
+        "@y1": "507",
+        "@y2": "514"
+       },
+       "content": null
+      }
+     ]
+    }
+   },
+   {
+    "@id": "5",
+    "region": {
+     "@col-increment": "0",
+     "@id": "1",
+     "@page": "9",
+     "@row-increment": "0",
+     "cell": [
+      {
+       "@end-col": "0",
+       "@end-row": "0",
+       "@id": "1",
+       "@start-col": "0",
+       "@start-row": "0",
+       "bounding-box": {
+        "@x1": "71",
+        "@x2": "181",
+        "@y1": "547",
+        "@y2": "561"
+       },
+       "content": "w/ojointtopicembedding."
+      },
+      {
+       "@end-col": "1",
+       "@end-row": "0",
+       "@id": "2",
+       "@start-col": "1",
+       "@start-row": "0",
+       "bounding-box": {
+        "@x1": "181",
+        "@x2": "283",
+        "@y1": "547",
+        "@y2": "561"
+       },
+       "content": null
+      },
+      {
+       "@end-col": "2",
+       "@end-row": "0",
+       "@id": "3",
+       "@start-col": "2",
+       "@start-row": "0",
+       "bounding-box": {
+        "@x1": "283",
+        "@x2": "349",
+        "@y1": "547",
+        "@y2": "561"
+       },
+       "content": null
+      },
+      {
+       "@end-col": "3",
+       "@end-row": "0",
+       "@id": "4",
+       "@start-col": "3",
+       "@start-row": "0",
+       "bounding-box": {
+        "@x1": "349",
+        "@x2": "414",
+        "@y1": "547",
+        "@y2": "561"
+       },
+       "content": null
+      },
+      {
+       "@end-col": "4",
+       "@end-row": "0",
+       "@id": "5",
+       "@start-col": "4",
+       "@start-row": "0",
+       "bounding-box": {
+        "@x1": "414",
+        "@x2": "486",
+        "@y1": "547",
+        "@y2": "561"
+       },
+       "content": null
+      },
+      {
+       "@end-col": "0",
+       "@end-row": "2",
+       "@id": "1",
+       "@start-col": "0",
+       "@start-row": "1",
+       "bounding-box": {
+        "@x1": "71",
+        "@x2": "181",
+        "@y1": "522",
+        "@y2": "547"
+       },
+       "content": null
+      },
+      {
+       "@end-col": "1",
+       "@end-row": "2",
+       "@id": "2",
+       "@start-col": "1",
+       "@start-row": "1",
+       "bounding-box": {
+        "@x1": "181",
+        "@x2": "283",
+        "@y1": "522",
+        "@y2": "547"
+       },
+       "content": "Review"
+      },
+      {
+       "@end-col": "2",
+       "@end-row": "2",
+       "@id": "3",
+       "@start-col": "2",
+       "@start-row": "1",
+       "bounding-box": {
+        "@x1": "283",
+        "@x2": "349",
+        "@y1": "522",
+        "@y2": "547"
+       },
+       "content": "Ground  Truth"
+      },
+      {
+       "@end-col": "3",
+       "@end-row": "1",
+       "@id": "4",
+       "@start-col": "3",
+       "@start-row": "1",
+       "bounding-box": {
+        "@x1": "349",
+        "@x2": "414",
+        "@y1": "531",
+        "@y2": "547"
+       },
+       "content": "Output  of"
+      },
+      {
+       "@end-col": "4",
+       "@end-row": "1",
+       "@id": "5",
+       "@start-col": "4",
+       "@start-row": "1",
+       "bounding-box": {
+        "@x1": "414",
+        "@x2": "486",
+        "@y1": "531",
+        "@y2": "547"
+       },
+       "content": "Outputof  Model"
+      },
+      {
+       "@end-col": "3",
+       "@end-row": "2",
+       "@id": "1",
+       "@start-col": "3",
+       "@start-row": "2",
+       "bounding-box": {
+        "@x1": "349",
+        "@x2": "414",
+        "@y1": "522",
+        "@y2": "531"
+       },
+       "content": "Full  Model"
+      },
+      {
+       "@end-col": "4",
+       "@end-row": "2",
+       "@id": "2",
+       "@start-col": "4",
+       "@start-row": "2",
+       "bounding-box": {
+        "@x1": "414",
+        "@x2": "486",
+        "@y1": "522",
+        "@y2": "531"
+       },
+       "content": "w/o  jointembedding"
+      },
+      {
+       "@end-col": "1",
+       "@end-row": "3",
+       "@id": "1",
+       "@start-col": "0",
+       "@start-row": "3",
+       "bounding-box": {
+        "@x1": "71",
+        "@x2": "283",
+        "@y1": "512",
+        "@y2": "522"
+       },
+       "content": "NO  junkware!!"
+      },
+      {
+       "@end-col": "2",
+       "@end-row": "3",
+       "@id": "2",
+       "@start-col": "2",
+       "@start-row": "3",
+       "bounding-box": {
+        "@x1": "283",
+        "@x2": "349",
+        "@y1": "512",
+        "@y2": "522"
+       },
+       "content": "(good,  software)"
+      },
+      {
+       "@end-col": "3",
+       "@end-row": "3",
+       "@id": "3",
+       "@start-col": "3",
+       "@start-row": "3",
+       "bounding-box": {
+        "@x1": "349",
+        "@x2": "414",
+        "@y1": "512",
+        "@y2": "522"
+       },
+       "content": "(good,  software)"
+      },
+      {
+       "@end-col": "4",
+       "@end-row": "3",
+       "@id": "4",
+       "@start-col": "4",
+       "@start-row": "3",
+       "bounding-box": {
+        "@x1": "414",
+        "@x2": "486",
+        "@y1": "512",
+        "@y2": "522"
+       },
+       "content": "(good,  display)"
+      },
+      {
+       "@end-col": "1",
+       "@end-row": "4",
+       "@id": "1",
+       "@start-col": "0",
+       "@start-row": "4",
+       "bounding-box": {
+        "@x1": "71",
+        "@x2": "283",
+        "@y1": "503",
+        "@y2": "512"
+       },
+       "content": "I  de\ufb01nitely  will  buy  a  Mac  again  if  and  when  this"
+      },
+      {
+       "@end-col": "2",
+       "@end-row": "5",
+       "@id": "2",
+       "@start-col": "2",
+       "@start-row": "4",
+       "bounding-box": {
+        "@x1": "283",
+        "@x2": "349",
+        "@y1": "494",
+        "@y2": "512"
+       },
+       "content": "(good,  company)"
+      },
+      {
+       "@end-col": "3",
+       "@end-row": "5",
+       "@id": "3",
+       "@start-col": "3",
+       "@start-row": "4",
+       "bounding-box": {
+        "@x1": "349",
+        "@x2": "414",
+        "@y1": "494",
+        "@y2": "512"
+       },
+       "content": "(good,  os)"
+      },
+      {
+       "@end-col": "4",
+       "@end-row": "5",
+       "@id": "4",
+       "@start-col": "4",
+       "@start-row": "4",
+       "bounding-box": {
+        "@x1": "414",
+        "@x2": "486",
+        "@y1": "494",
+        "@y2": "512"
+       },
+       "content": "(good,  os)"
+      },
+      {
+       "@end-col": "1",
+       "@end-row": "5",
+       "@id": "1",
+       "@start-col": "0",
+       "@start-row": "5",
+       "bounding-box": {
+        "@x1": "71",
+        "@x2": "283",
+        "@y1": "494",
+        "@y2": "503"
+       },
+       "content": "computer  ever  fails."
+      },
+      {
+       "@end-col": "1",
+       "@end-row": "6",
+       "@id": "1",
+       "@start-col": "0",
+       "@start-row": "6",
+       "bounding-box": {
+        "@x1": "71",
+        "@x2": "283",
+        "@y1": "485",
+        "@y2": "494"
+       },
+       "content": "I  don\u2019t  have  the  inclinationor  time  to  devote  to  a"
+      },
+      {
+       "@end-col": "2",
+       "@end-row": "6",
+       "@id": "2",
+       "@start-col": "2",
+       "@start-row": "6",
+       "bounding-box": {
+        "@x1": "283",
+        "@x2": "349",
+        "@y1": "485",
+        "@y2": "494"
+       },
+       "content": null
+      },
+      {
+       "@end-col": "3",
+       "@end-row": "6",
+       "@id": "3",
+       "@start-col": "3",
+       "@start-row": "6",
+       "bounding-box": {
+        "@x1": "349",
+        "@x2": "414",
+        "@y1": "485",
+        "@y2": "494"
+       },
+       "content": null
+      },
+      {
+       "@end-col": "4",
+       "@end-row": "6",
+       "@id": "4",
+       "@start-col": "4",
+       "@start-row": "6",
+       "bounding-box": {
+        "@x1": "414",
+        "@x2": "486",
+        "@y1": "485",
+        "@y2": "494"
+       },
+       "content": null
+      },
+      {
+       "@end-col": "1",
+       "@end-row": "7",
+       "@id": "1",
+       "@start-col": "0",
+       "@start-row": "7",
+       "bounding-box": {
+        "@x1": "71",
+        "@x2": "283",
+        "@y1": "476",
+        "@y2": "485"
+       },
+       "content": "companies  tech  support,  search  functions,  or  hold"
+      },
+      {
+       "@end-col": "2",
+       "@end-row": "7",
+       "@id": "2",
+       "@start-col": "2",
+       "@start-row": "7",
+       "bounding-box": {
+        "@x1": "283",
+        "@x2": "349",
+        "@y1": "476",
+        "@y2": "485"
+       },
+       "content": "(bad,  company)"
+      },
+      {
+       "@end-col": "3",
+       "@end-row": "7",
+       "@id": "3",
+       "@start-col": "3",
+       "@start-row": "7",
+       "bounding-box": {
+        "@x1": "349",
+        "@x2": "414",
+        "@y1": "476",
+        "@y2": "485"
+       },
+       "content": "(bad,  support)"
+      },
+      {
+       "@end-col": "4",
+       "@end-row": "7",
+       "@id": "4",
+       "@start-col": "4",
+       "@start-row": "7",
+       "bounding-box": {
+        "@x1": "414",
+        "@x2": "486",
+        "@y1": "476",
+        "@y2": "485"
+       },
+       "content": "(bad,  company)"
+      },
+      {
+       "@end-col": "1",
+       "@end-row": "8",
+       "@id": "1",
+       "@start-col": "0",
+       "@start-row": "8",
+       "bounding-box": {
+        "@x1": "71",
+        "@x2": "283",
+        "@y1": "467",
+        "@y2": "476"
+       },
+       "content": "times.....droppedthe  HPand  neverlooked  back."
+      },
+      {
+       "@end-col": "2",
+       "@end-row": "8",
+       "@id": "2",
+       "@start-col": "2",
+       "@start-row": "8",
+       "bounding-box": {
+        "@x1": "283",
+        "@x2": "349",
+        "@y1": "467",
+        "@y2": "476"
+       },
+       "content": null
+      },
+      {
+       "@end-col": "3",
+       "@end-row": "8",
+       "@id": "3",
+       "@start-col": "3",
+       "@start-row": "8",
+       "bounding-box": {
+        "@x1": "349",
+        "@x2": "414",
+        "@y1": "467",
+        "@y2": "476"
+       },
+       "content": null
+      },
+      {
+       "@end-col": "4",
+       "@end-row": "8",
+       "@id": "4",
+       "@start-col": "4",
+       "@start-row": "8",
+       "bounding-box": {
+        "@x1": "414",
+        "@x2": "486",
+        "@y1": "467",
+        "@y2": "476"
+       },
+       "content": null
+      },
+      {
+       "@end-col": "1",
+       "@end-row": "9",
+       "@id": "1",
+       "@start-col": "0",
+       "@start-row": "9",
+       "bounding-box": {
+        "@x1": "71",
+        "@x2": "283",
+        "@y1": "457",
+        "@y2": "467"
+       },
+       "content": "I  \ufb01nd  myself  adjusting  it  regularly."
+      },
+      {
+       "@end-col": "2",
+       "@end-row": "9",
+       "@id": "2",
+       "@start-col": "2",
+       "@start-row": "9",
+       "bounding-box": {
+        "@x1": "283",
+        "@x2": "349",
+        "@y1": "457",
+        "@y2": "467"
+       },
+       "content": "(bad,  display)"
+      },
+      {
+       "@end-col": "3",
+       "@end-row": "9",
+       "@id": "3",
+       "@start-col": "3",
+       "@start-row": "9",
+       "bounding-box": {
+        "@x1": "349",
+        "@x2": "414",
+        "@y1": "457",
+        "@y2": "467"
+       },
+       "content": "(bad,  display)"
+      },
+      {
+       "@end-col": "4",
+       "@end-row": "9",
+       "@id": "4",
+       "@start-col": "4",
+       "@start-row": "9",
+       "bounding-box": {
+        "@x1": "414",
+        "@x2": "486",
+        "@y1": "457",
+        "@y2": "467"
+       },
+       "content": "(bad,  mouse)"
+      },
+      {
+       "@end-col": "1",
+       "@end-row": "10",
+       "@id": "1",
+       "@start-col": "0",
+       "@start-row": "10",
+       "bounding-box": {
+        "@x1": "71",
+        "@x2": "283",
+        "@y1": "448",
+        "@y2": "457"
+       },
+       "content": "Ithought  learning  the  Mac  OS  wouldbe  hard,but"
+      },
+      {
+       "@end-col": "2",
+       "@end-row": "11",
+       "@id": "2",
+       "@start-col": "2",
+       "@start-row": "10",
+       "bounding-box": {
+        "@x1": "283",
+        "@x2": "349",
+        "@y1": "439",
+        "@y2": "457"
+       },
+       "content": "(good,  os)"
+      },
+      {
+       "@end-col": "3",
+       "@end-row": "11",
+       "@id": "3",
+       "@start-col": "3",
+       "@start-row": "10",
+       "bounding-box": {
+        "@x1": "349",
+        "@x2": "414",
+        "@y1": "439",
+        "@y2": "457"
+       },
+       "content": "(good,  os)"
+      },
+      {
+       "@end-col": "4",
+       "@end-row": "11",
+       "@id": "4",
+       "@start-col": "4",
+       "@start-row": "10",
+       "bounding-box": {
+        "@x1": "414",
+        "@x2": "486",
+        "@y1": "439",
+        "@y2": "457"
+       },
+       "content": "(bad,  os)"
+      },
+      {
+       "@end-col": "1",
+       "@end-row": "11",
+       "@id": "1",
+       "@start-col": "0",
+       "@start-row": "11",
+       "bounding-box": {
+        "@x1": "71",
+        "@x2": "283",
+        "@y1": "439",
+        "@y2": "448"
+       },
+       "content": "it  iseasily  picked  up  if  youare  familiar  with  aPC."
+      },
+      {
+       "@end-col": "1",
+       "@end-row": "12",
+       "@id": "1",
+       "@start-col": "0",
+       "@start-row": "12",
+       "bounding-box": {
+        "@x1": "71",
+        "@x2": "283",
+        "@y1": "430",
+        "@y2": "439"
+       },
+       "content": "Theytold  me  to  reprogram  the  computer,  and  I"
+      },
+      {
+       "@end-col": "2",
+       "@end-row": "12",
+       "@id": "2",
+       "@start-col": "2",
+       "@start-row": "12",
+       "bounding-box": {
+        "@x1": "283",
+        "@x2": "349",
+        "@y1": "430",
+        "@y2": "439"
+       },
+       "content": null
+      },
+      {
+       "@end-col": "3",
+       "@end-row": "12",
+       "@id": "3",
+       "@start-col": "3",
+       "@start-row": "12",
+       "bounding-box": {
+        "@x1": "349",
+        "@x2": "414",
+        "@y1": "430",
+        "@y2": "439"
+       },
+       "content": null
+      },
+      {
+       "@end-col": "4",
+       "@end-row": "12",
+       "@id": "4",
+       "@start-col": "4",
+       "@start-row": "12",
+       "bounding-box": {
+        "@x1": "414",
+        "@x2": "486",
+        "@y1": "430",
+        "@y2": "439"
+       },
+       "content": null
+      },
+      {
+       "@end-col": "1",
+       "@end-row": "13",
+       "@id": "1",
+       "@start-col": "0",
+       "@start-row": "13",
+       "bounding-box": {
+        "@x1": "71",
+        "@x2": "283",
+        "@y1": "421",
+        "@y2": "430"
+       },
+       "content": "didn\u2019t  need  to  do  that,  and  I  lost  pictures"
+      },
+      {
+       "@end-col": "2",
+       "@end-row": "13",
+       "@id": "2",
+       "@start-col": "2",
+       "@start-row": "13",
+       "bounding-box": {
+        "@x1": "283",
+        "@x2": "349",
+        "@y1": "421",
+        "@y2": "430"
+       },
+       "content": "(bad,  support)"
+      },
+      {
+       "@end-col": "3",
+       "@end-row": "13",
+       "@id": "3",
+       "@start-col": "3",
+       "@start-row": "13",
+       "bounding-box": {
+        "@x1": "349",
+        "@x2": "414",
+        "@y1": "421",
+        "@y2": "430"
+       },
+       "content": "(bad,  support)"
+      },
+      {
+       "@end-col": "4",
+       "@end-row": "13",
+       "@id": "4",
+       "@start-col": "4",
+       "@start-row": "13",
+       "bounding-box": {
+        "@x1": "414",
+        "@x2": "486",
+        "@y1": "421",
+        "@y2": "430"
+       },
+       "content": "(good,  support)"
+      },
+      {
+       "@end-col": "1",
+       "@end-row": "14",
+       "@id": "1",
+       "@start-col": "0",
+       "@start-row": "14",
+       "bounding-box": {
+        "@x1": "71",
+        "@x2": "283",
+        "@y1": "412",
+        "@y2": "421"
+       },
+       "content": "of  my  oldests  \ufb01rst  2years  ofherlife."
+      },
+      {
+       "@end-col": "2",
+       "@end-row": "14",
+       "@id": "2",
+       "@start-col": "2",
+       "@start-row": "14",
+       "bounding-box": {
+        "@x1": "283",
+        "@x2": "349",
+        "@y1": "412",
+        "@y2": "421"
+       },
+       "content": null
+      },
+      {
+       "@end-col": "3",
+       "@end-row": "14",
+       "@id": "3",
+       "@start-col": "3",
+       "@start-row": "14",
+       "bounding-box": {
+        "@x1": "349",
+        "@x2": "414",
+        "@y1": "412",
+        "@y2": "421"
+       },
+       "content": null
+      },
+      {
+       "@end-col": "4",
+       "@end-row": "14",
+       "@id": "4",
+       "@start-col": "4",
+       "@start-row": "14",
+       "bounding-box": {
+        "@x1": "414",
+        "@x2": "486",
+        "@y1": "412",
+        "@y2": "421"
+       },
+       "content": null
+      },
+      {
+       "@end-col": "1",
+       "@end-row": "15",
+       "@id": "1",
+       "@start-col": "0",
+       "@start-row": "15",
+       "bounding-box": {
+        "@x1": "71",
+        "@x2": "283",
+        "@y1": "402",
+        "@y2": "412"
+       },
+       "content": "But,  hey,  it\u2019s  anApple."
+      },
+      {
+       "@end-col": "2",
+       "@end-row": "15",
+       "@id": "2",
+       "@start-col": "2",
+       "@start-row": "15",
+       "bounding-box": {
+        "@x1": "283",
+        "@x2": "349",
+        "@y1": "402",
+        "@y2": "412"
+       },
+       "content": "(good,  company)"
+      },
+      {
+       "@end-col": "3",
+       "@end-row": "15",
+       "@id": "3",
+       "@start-col": "3",
+       "@start-row": "15",
+       "bounding-box": {
+        "@x1": "349",
+        "@x2": "414",
+        "@y1": "402",
+        "@y2": "412"
+       },
+       "content": "(bad,  company)"
+      },
+      {
+       "@end-col": "4",
+       "@end-row": "15",
+       "@id": "4",
+       "@start-col": "4",
+       "@start-row": "15",
+       "bounding-box": {
+        "@x1": "414",
+        "@x2": "486",
+        "@y1": "402",
+        "@y2": "412"
+       },
+       "content": "(good,  company)"
+      },
+      {
+       "@end-col": "1",
+       "@end-row": "16",
+       "@id": "1",
+       "@start-col": "0",
+       "@start-row": "16",
+       "bounding-box": {
+        "@x1": "71",
+        "@x2": "283",
+        "@y1": "393",
+        "@y2": "402"
+       },
+       "content": "I\u2019m  no  power###user,  but  I  have  had  no"
+      },
+      {
+       "@end-col": "2",
+       "@end-row": "16",
+       "@id": "2",
+       "@start-col": "2",
+       "@start-row": "16",
+       "bounding-box": {
+        "@x1": "283",
+        "@x2": "349",
+        "@y1": "393",
+        "@y2": "402"
+       },
+       "content": null
+      },
+      {
+       "@end-col": "3",
+       "@end-row": "16",
+       "@id": "3",
+       "@start-col": "3",
+       "@start-row": "16",
+       "bounding-box": {
+        "@x1": "349",
+        "@x2": "414",
+        "@y1": "393",
+        "@y2": "402"
+       },
+       "content": null
+      },
+      {
+       "@end-col": "4",
+       "@end-row": "16",
+       "@id": "4",
+       "@start-col": "4",
+       "@start-row": "16",
+       "bounding-box": {
+        "@x1": "414",
+        "@x2": "486",
+        "@y1": "393",
+        "@y2": "402"
+       },
+       "content": null
+      },
+      {
+       "@end-col": "1",
+       "@end-row": "17",
+       "@id": "1",
+       "@start-col": "0",
+       "@start-row": "17",
+       "bounding-box": {
+        "@x1": "71",
+        "@x2": "283",
+        "@y1": "384",
+        "@y2": "393"
+       },
+       "content": "learning###curve  with  the  MAC  and  I  don\u2019tdo"
+      },
+      {
+       "@end-col": "2",
+       "@end-row": "17",
+       "@id": "2",
+       "@start-col": "2",
+       "@start-row": "17",
+       "bounding-box": {
+        "@x1": "283",
+        "@x2": "349",
+        "@y1": "384",
+        "@y2": "393"
+       },
+       "content": "(good,  os)"
+      },
+      {
+       "@end-col": "3",
+       "@end-row": "17",
+       "@id": "3",
+       "@start-col": "3",
+       "@start-row": "17",
+       "bounding-box": {
+        "@x1": "349",
+        "@x2": "414",
+        "@y1": "384",
+        "@y2": "393"
+       },
+       "content": "(good,  os)"
+      },
+      {
+       "@end-col": "4",
+       "@end-row": "17",
+       "@id": "4",
+       "@start-col": "4",
+       "@start-row": "17",
+       "bounding-box": {
+        "@x1": "414",
+        "@x2": "486",
+        "@y1": "384",
+        "@y2": "393"
+       },
+       "content": "(bad,  os)"
+      },
+      {
+       "@end-col": "1",
+       "@end-row": "18",
+       "@id": "1",
+       "@start-col": "0",
+       "@start-row": "18",
+       "bounding-box": {
+        "@x1": "71",
+        "@x2": "283",
+        "@y1": "375",
+        "@y2": "384"
+       },
+       "content": "anything  geekyenough  forcing  me  to  learn  the  OS."
+      },
+      {
+       "@end-col": "2",
+       "@end-row": "18",
+       "@id": "2",
+       "@start-col": "2",
+       "@start-row": "18",
+       "bounding-box": {
+        "@x1": "283",
+        "@x2": "349",
+        "@y1": "375",
+        "@y2": "384"
+       },
+       "content": null
+      },
+      {
+       "@end-col": "3",
+       "@end-row": "18",
+       "@id": "3",
+       "@start-col": "3",
+       "@start-row": "18",
+       "bounding-box": {
+        "@x1": "349",
+        "@x2": "414",
+        "@y1": "375",
+        "@y2": "384"
+       },
+       "content": null
+      },
+      {
+       "@end-col": "4",
+       "@end-row": "18",
+       "@id": "4",
+       "@start-col": "4",
+       "@start-row": "18",
+       "bounding-box": {
+        "@x1": "414",
+        "@x2": "486",
+        "@y1": "375",
+        "@y2": "384"
+       },
+       "content": null
+      },
+      {
+       "@end-col": "1",
+       "@end-row": "19",
+       "@id": "1",
+       "@start-col": "0",
+       "@start-row": "19",
+       "bounding-box": {
+        "@x1": "71",
+        "@x2": "283",
+        "@y1": "368",
+        "@y2": "375"
+       },
+       "content": "The  battery  lasted  12  months,  thenpffft.....gone."
+      },
+      {
+       "@end-col": "2",
+       "@end-row": "19",
+       "@id": "2",
+       "@start-col": "2",
+       "@start-row": "19",
+       "bounding-box": {
+        "@x1": "283",
+        "@x2": "349",
+        "@y1": "368",
+        "@y2": "375"
+       },
+       "content": "(bad,  battery)"
+      },
+      {
+       "@end-col": "3",
+       "@end-row": "19",
+       "@id": "3",
+       "@start-col": "3",
+       "@start-row": "19",
+       "bounding-box": {
+        "@x1": "349",
+        "@x2": "414",
+        "@y1": "368",
+        "@y2": "375"
+       },
+       "content": "(bad,  battery)"
+      },
+      {
+       "@end-col": "4",
+       "@end-row": "19",
+       "@id": "4",
+       "@start-col": "4",
+       "@start-row": "19",
+       "bounding-box": {
+        "@x1": "414",
+        "@x2": "486",
+        "@y1": "368",
+        "@y2": "375"
+       },
+       "content": "(good,  battery)"
+      }
+     ]
+    }
+   }
+  ]
+ }
+}
